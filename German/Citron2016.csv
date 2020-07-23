@@ -1,0 +1,622 @@
+﻿Code,German idioms,Literal translation,Meaning,Ambiguity,Valence M,Valence SD,Arousal M,Arousal SD,Familiar M,Familiar SD,Transparency M,Transparency SD,Figurative M,Figurative SD,Concreteness M,Concreteness SD,Knowledge of the idiomatic meaning ,Confidence M,Confidence SD,Length in letters,Length in words
+001,in den sauren Apfel beißen,to bite into the sour apple,to do something unpleasant where you know you have a disadvantage,A,-1.26,0.77,3.93,1.80,5.27,1.60,4.29,2.13,4.50,1.78,4.97,2.52,92,6.35,1.02,22,5
+002,etwas für einen Apfel und ein Ei kaufen,to buy something for an apple and an egg,to buy something for a cheap price,A,0.58,1.43,2.81,1.62,4.45,1.86,3.94,2.16,4.75,1.87,3.14,1.82,100,5.71,1.49,32,8
+003,einen an der Birne haben,to have one in the pear (head),to be crazy/dumb,U,-1.52,0.51,3.55,1.62,4.07,1.96,2.23,1.68,5.48,1.40,2.34,1.70,79,5.90,1.63,20,5
+004,Äpfel mit Birnen vergleichen,to compare apples with pears,to compare uncomparable things,A,-0.73,0.69,2.45,1.52,4.86,1.96,4.83,2.02,4.58,1.59,3.70,1.88,92,6.40,1.22,25,4
+005,sich jeden Bissen vom Munde absparen,to save oneself every bite from the mouth,to be very poor and to have to save money to be able to afford anything,U,-1.57,1.10,4.23,1.98,4.17,1.91,5.22,1.79,4.10,1.74,3.59,2.26,96,6.31,1.31,31,6
+006,jemandem eine Extrawurst braten,to roast an extra sausage for someone,to satisfy an extra wish to someone (through a favour); to warrant an extra treatment to someone,A,-0.94,0.85,3.34,1.78,4.83,1.64,4.16,1.97,4.91,1.65,4.00,2.22,89,6.06,1.61,28,4
+007,den Braten riechen,to smell the roast,to suspect danger or a win; to realize something early; to recognize a trend; to have a suspicion,A,0.39,1.28,3.90,1.83,4.83,1.93,3.42,2.05,4.88,1.70,4.65,2.42,100,6.23,1.33,16,3
+008,jemanden im eigenen Saft schmoren lassen,to let someone braise in their own juice,to leave someone to one's own devices/problems/troubles; to abandon someone,U,-1.48,0.77,4.45,1.71,3.79,2.04,3.16,2.13,5.06,1.70,3.06,2.05,75,6.43,1.60,35,6
+009,es braut sich etwas zusammen,something is brewing together,something bad is going to happen,U,-1.26,0.77,4.13,1.45,5.52,1.43,3.84,2.19,4.71,1.66,2.87,1.96,97,6.03,1.57,24,5
+010,jemanden zu Brei schlagen,to beat someone until he becomes mash,to bash someone; to beat someone up,U,-2.50,0.67,5.23,1.89,3.86,1.88,5.32,1.81,4.28,1.57,3.74,2.31,96,6.17,1.34,22,4
+011,seinen Senf dazugeben,to add one's mustard,to intervene by saying one's own opinion even though it was not asked or wished,A,-0.74,1.00,3.55,1.88,5.41,1.68,3.00,2.41,5.22,1.68,4.00,2.18,97,5.84,2.02,19,3
+012,sich seine Brötchen verdienen,to earn one's rolls,to deserve what you earn (by working),U,1.16,1.07,2.39,1.71,5.14,1.64,5.28,2.08,3.55,1.52,3.43,2.28,100,6.76,0.58,26,4
+013,in Lohn und Brot stehen,to stay in wage and bread,to have a job,U,1.37,1.24,2.93,1.84,3.88,2.18,4.30,2.28,4.07,1.58,2.77,1.87,88,6.70,0.47,19,5
+014,jemandes täglich Brot sein,to be someone's daily bread,something is essential to someone's everyday life; to be a daily task for someone,U,0.65,1.08,3.13,1.63,3.79,1.92,3.61,2.12,4.42,1.41,3.13,2.11,67,6.66,0.67,23,4
+015,jemandem Honig ums Maul schmieren,to grease honey on someone's muzzle,to flatter someone excessively,A,-0.74,1.24,3.58,1.48,4.80,1.86,3.91,2.04,5.41,1.46,4.77,2.17,85,6.31,1.11,29,5
+016,sich von seiner Schokoladenseite zeigen,to show oneself from one's chocolate side,to show one's best attributes,U,1.55,0.93,4.06,1.71,5.17,1.58,4.38,2.11,5.29,1.44,3.53,2.29,96,6.65,0.66,35,5
+018,Pfeffer im Hintern haben,to have pepper in the ass,to be lively; to be full of energy; not to be able to sit still,A,0.26,1.46,3.81,1.89,3.86,2.01,3.43,2.22,5.41,1.59,3.10,1.99,78,6.27,0.96,21,4
+019a,jemandem die Butter vom Brot nehmen,to take someone the butter from the bread,to rob somebody of something nice/important; to hamper the pursuit of someone's interest,A,-1.58,0.76,3.83,1.72,4.31,2.04,4.50,2.20,4.90,1.70,3.97,2.43,77,5.71,1.81,30,6
+019b,jemandem nicht die Butter auf dem Brot gönnen,to begrudge s.o. the butter on their bread,to be envious/jealous of someone; to have a grudge against someone,A,-1.52,1.27,3.53,1.59,3.96,2.01,5.32,1.97,4.48,1.96,3.50,2.26,100,6.55,1.27,38,8
+019c,sich die Wurst vom Brot nehmen lassen,to let someone take the sausage of one's bread,to accept a damage uncontradicted,A,-1.23,0.73,3.48,1.79,4.15,1.94,4.10,1.93,4.74,1.71,3.63,2.47,57,6.57,0.79,31,7
+020a,jemandem einen Stock zwischen die Beine werfen,to throw a stick between someone's legs,to create difficulties to someone; to make someone's life difficult,A,-1.61,0.67,4.03,1.45,3.73,2.03,4.90,1.83,4.38,1.84,4.16,2.52,96,5.66,1.78,40,7
+020b,Sand ins Getriebe streuen,to spread sand in the gear,to create difficulties to someone; to make someone's life difficult,A,-1.39,1.02,3.60,1.63,3.83,1.87,5.19,1.73,4.28,1.55,4.37,2.33,88,4.85,1.88,22,4
+021,jemanden etwas unter die Nase reiben,to grate something under someone's nose,to emphasise something unpleasant unnecessarily,A,-1.00,0.68,4.00,1.62,5.48,1.35,3.88,2.18,5.06,1.37,4.47,2.32,69,6.83,0.38,31,6
+022a,den Daumen in die Wunde drücken,to push the thumb in the wound,"to emphasise something negative on purpose, with evilness",A,-1.77,0.90,5.00,1.55,3.69,1.87,4.63,1.80,4.47,1.68,4.50,2.43,83,6.60,0.77,26,6
+022b,Salz in die Wunde streuen,to spread salt in the wound,"to emphasise something negative on purpose, with evilness",A,-2.03,0.84,5.03,1.45,5.23,1.70,5.53,1.61,4.75,1.76,4.13,2.51,86,5.83,1.95,21,5
+023,jemandem die Hölle heiß machen,to make the hell hot to someone,to browbeat/bully somebody; to put someone under pressure; to punish someone,U,-1.84,0.97,5.58,1.48,5.03,1.67,4.38,2.09,4.91,1.69,3.55,2.03,96,6.23,1.38,26,5
+024a,jemandem Beine machen,to make legs to someone,to cast someone out; to hurry someone to do something,U,-0.69,0.97,3.58,1.69,4.63,1.83,3.19,2.26,4.48,1.93,2.59,1.66,100,6.06,1.37,19,3
+024b,jemanden unter Druck setzen,to put someone under pressure,to put someone under pressure,U,-1.71,0.90,4.19,1.76,5.76,1.68,5.35,1.85,3.19,1.69,3.42,2.13,93,4.39,2.33,24,4
+025,jemanden auf frischer Tat ertappen,"to catch someone in the ""fresh"" act (of doing something)",to find out someone is guilty while he is still committing the forbidden action; to catch someone red-handed; to catch someone in the act of doing something,U,-0.38,1.58,4.81,1.68,5.73,1.48,5.74,1.79,3.06,1.68,3.74,2.41,97,6.73,0.58,30,5
+026,eine Durststrecke haben,to have a line/stretch of thirst (to be very thirsty),to go through a difficult time; to have a difficult phase,U,-1.48,0.85,3.23,1.89,4.69,1.79,4.50,2.05,4.77,1.61,2.83,2.13,85,6.19,1.42,21,3
+027,wie aus dem Ei gepellt sein,"to be peeled as ""just come out of the egg""",to be clean and spotless; to be well-dressed,U,1.43,0.90,3.16,1.92,4.13,1.89,4.34,1.84,5.47,1.48,3.00,1.97,100,6.77,0.50,22,6
+028,sein Fett wegkriegen,to get one's fat away/to be deprived of one's fat,to be criticised for something bad; either something bad one has done or some bad characteristics one has,U(A),-1.48,1.06,4.32,1.78,4.86,2.00,2.81,2.17,5.56,1.27,2.81,1.92,96,6.54,0.86,18,3
+029,einer Sache eine gewisse Würze verleihen,to award/give something a certain flavour,to make something become interesting; to render something interesting,A,1.16,0.93,3.52,1.67,4.03,1.78,4.23,1.91,4.69,1.67,3.97,2.17,84,6.32,1.17,35,6
+030,immer alles schwarz sehen,to always see everything black,to be very pessimistic,U,-2.13,0.81,4.13,1.82,5.27,1.44,4.81,1.96,4.84,1.71,3.71,2.37,100,2.54,2.26,22,4
+031,etwas aus dem Ärmel schütteln,to shake something out of the sleeve,to come up with something just like that/very easily; to improvise,A,0.68,0.87,2.97,1.73,5.03,1.86,4.10,2.21,5.25,1.46,3.62,2.21,79,6.39,1.31,25,5
+032,sich in den Arsch beißen,to bite oneself in the ass/back,to get annoyed at oneself/to get angry at oneself,U,-1.55,0.89,4.48,1.74,5.31,1.81,3.29,2.19,5.06,1.88,3.43,2.24,93,6.66,0.90,20,5
+033a,sich ins eigene Fleisch schneiden,to cut oneself in one's own flesh,to create problems to oneself; to cause oneself a problem,A,-1.74,0.86,4.74,1.59,5.23,1.77,4.93,2.13,4.41,1.92,4.86,2.41,100,6.14,1.65,29,5
+033b,sich ins Knie schießen,to shoot oneself in the knee,to create problems to onerself; to cause oneself a problem; to damage oneself,A,-2.03,0.81,4.55,1.38,4.37,1.80,3.48,2.03,5.00,1.83,3.50,2.25,90,6.23,1.56,19,4
+034,sich in den Hintern treten,to kick one's own ass,to repent something; to regret something,U,-0.84,1.32,4.43,1.61,4.83,2.09,4.13,2.13,4.75,1.74,3.87,2.43,60,5.69,1.83,22,5
+035,wie die Faust aufs Auge passen,to fit as the fist fits the eye,to fit together perfectly,U,1.52,0.85,3.55,1.89,5.34,1.88,4.16,2.21,5.19,1.65,3.86,2.13,89,5.54,2.04,25,6
+036,nur Bahnhof verstehen,"to undestand only ""station""",to understand nothing; not to know what is meant/what someone means,U,-1.10,0.87,3.27,1.84,5.50,1.61,2.26,2.00,5.84,1.30,2.29,1.79,100,5.73,1.71,19,3
+037,Das ist Banane!,that's banana,that's ridiculous/nonsense/crazy,U,-0.57,1.00,3.03,1.94,3.86,2.10,1.83,1.73,5.14,1.86,2.00,1.73,71,5.44,1.97,13,3
+038,stark wie ein Bär sein,to be as strong as a bear,to be very strong,U,2.13,0.81,3.94,2.11,4.32,1.70,6.22,1.81,3.45,1.95,4.33,2.32,97,6.21,1.59,18,5
+039,sich kein Bein ausreißen,to not pull out a leg,to not strain oneself but also to not put enough effort,U,-0.91,0.96,3.13,1.83,5.00,1.68,3.38,2.01,4.94,1.74,3.76,2.36,93,5.76,1.75,21,4
+040,wieder auf die Beine kommen,to get back (again) onto one's legs,"to get better again, to recover (not only from illness)",A,1.58,1.12,3.27,1.53,5.27,1.48,5.22,1.95,3.56,1.48,4.10,2.19,100,5.46,1.93,23,5
+041,bekannt wie ein bunter Hund sein,to be as known as a coloured/painted dog,to be very well known/known all-over,U,0.57,0.97,3.68,1.87,4.83,1.67,4.07,2.26,4.88,1.79,3.03,2.03,93,6.56,1.05,27,6
+042,mit etwas hinterm Berg halten,to keep something behind the mountain ,to keep something secret,U,-0.76,0.79,2.90,1.56,4.54,1.93,3.29,2.05,5.26,1.50,2.48,1.50,96,6.63,0.72,25,5
+043,über alle Berge sein,to be over all mountains/hills,"to be miles away, no longer reachable, e.g., when something gets stolen",U,-0.26,1.24,3.55,1.89,5.13,1.74,4.26,2.02,4.47,1.74,2.63,1.87,87,6.61,0.76,17,4
+044,über dem Berg sein,to be over the mountain/hill,"to have overcome something/the worse, to have recovered or to be on the way to recovery; to be healthy again",A,1.52,1.06,3.87,1.93,5.47,1.50,3.90,2.01,5.06,1.61,3.18,2.14,100,5.00,2.10,15,4
+045,das Bett hüten müssen,to have to watch/guard the bed,to have to stay in bed (because of illness),U,-1.25,0.92,3.03,1.91,4.57,1.83,5.19,1.80,3.78,1.66,3.77,2.35,93,6.24,1.24,18,4
+046a,blass vor Neid sein,to be pale with envy, to get very envious,U,-1.55,0.85,4.26,1.84,4.80,1.71,4.94,1.79,4.38,1.54,4.45,2.17,100,6.61,0.96,16,4
+046b,jemanden vor Neid erblassen lassen,to let someone turn pale of envy,to make someone very envious,U,-0.52,1.43,4.19,1.58,4.93,1.67,5.00,2.08,4.39,1.80,3.87,2.33,85,6.55,0.78,30,5
+047,kein unbeschriebenes Blatt sein,not to be an undescribed sheet,to be famous for some negative reason; to have already gained experience,U,-0.94,1.29,3.74,1.86,5.03,1.61,3.74,2.11,4.65,1.74,2.16,1.92,93,6.35,1.16,28,4
+048,blau machen,to make blue,skip work; fake illness; avoid work/school,U,-0.87,1.06,2.94,1.79,5.59,1.45,2.47,2.27,5.47,1.61,1.97,1.64,93,6.79,0.56,10,2
+049,den Bock zum Gärtner machen,to make the goat/buck be the a gardner,to ask the wrong person to do something,U,-1.38,0.92,3.50,1.69,3.40,1.91,2.80,2.37,5.79,1.77,2.24,1.99,42,5.60,2.12,23,5
+050,keinen Bock auf etwas haben,to have no (goat) buck for something,not to fancy doing something,U,-0.97,0.95,3.48,1.86,6.21,1.24,2.90,2.61,4.59,2.06,1.84,1.27,97,6.48,1.40,23,5
+051,stur wie ein Bock sein,to be as stubborn as a goat/buck,to be very stubborn,U,-1.55,0.85,3.90,1.72,4.79,1.76,4.77,1.76,3.69,1.94,2.76,2.08,93,6.38,1.29,18,5
+052a,dumm wie Bohnenstroh sein,to be dumb as bean straw,to be very stupid,U,-2.06,0.81,3.58,2.05,4.26,1.72,3.97,2.32,4.80,1.86,1.93,1.36,96,5.93,1.76,22,4
+052b,dumm wie Brot sein,to be dumb as bread,to be very stupid,U,-2.19,0.75,3.77,1.98,5.28,1.65,4.38,2.17,4.34,2.07,2.26,1.67,100,5.76,1.68,15,4
+053,Böses im Schilde führen,to carry evilness in the shield,to have evil intentions,U,-2.13,0.91,4.06,1.69,5.10,1.52,4.13,2.30,4.44,1.85,2.39,1.63,96,5.57,1.86,20,4
+054,mit jemandem unter einer Decke stecken,to hide with someone under a blanket,to secretly work with someone together ,A,-0.87,0.99,3.48,1.59,5.55,1.45,4.03,2.11,5.09,1.59,4.06,2.26,100,6.10,1.21,33,6
+055,jemandem einen Denkzettel verpassen,to give someone a think-note,to avenge; to do something so that the other person thinks about what he/she has done; to retaliate upon someone for something,U,-1.29,1.01,4.52,1.63,5.03,1.81,4.52,1.96,4.50,1.67,2.77,2.08,90,5.45,1.90,32,4
+056,wie vom Blitz getroffen sein ,to be hit like lightening,to experience something shocking; to experience something unexpected; to be very much in love,A,-0.77,1.09,4.90,1.66,5.03,1.78,4.77,2.09,4.61,1.78,4.07,2.24,83,6.07,1.58,24,6
+057,die Kirche im Dorf lassen,to leave the church in the village,to not exagerate something by taking it out of context,U,-0.31,0.97,3.71,1.94,5.00,1.55,2.42,2.00,5.39,1.48,2.03,1.52,86,5.79,1.77,21,5
+058,einen guten Draht zu jemandem haben,to have a good wire to someone,to get along well with someone; to be on good terms with someone; to have good connections to someone,U,1.87,0.81,3.65,1.56,5.97,1.35,4.68,1.83,5.13,1.56,2.45,1.80,93,6.19,1.49,30,6
+059,mit jemandem auf gutem Fuß stehen,to stand on a good foot with someone,"to get along with someone; it need not necessarily be ""very well"" in the sense of friends",U,1.43,1.14,3.10,1.72,3.93,1.74,3.47,2.22,5.27,1.34,2.71,2.12,93,6.39,1.05,28,6
+060,jemandem die Daumen drücken,to press the thumbs for someone,to wish someone good luck,A,1.68,0.83,3.71,1.83,6.24,1.43,2.81,2.35,4.31,2.18,4.43,2.19,100,5.60,2.02,24,4
+061,Das klingt spanisch für jemanden,this sounds Spanish to someone,not to understand something,A,-0.71,0.78,3.21,1.92,4.18,1.72,3.06,2.16,4.56,1.63,4.45,2.26,100,6.14,1.53,28,5
+062,den Karren in den Dreck fahren,to drive the cart/wagon in the mud ,"to ruin things, to make a mess of things",A,-1.94,0.96,4.38,1.66,4.38,1.99,4.58,1.93,4.32,1.70,4.16,2.34,89,5.85,1.81,25,6
+063,den Karren aus dem Dreck ziehen,to pull the cart/wagon out of the mud,to solve a mess/a problem,A,0.93,1.64,4.00,1.78,4.39,1.85,5.06,2.02,4.91,1.53,3.48,2.41,96,5.68,1.83,26,6
+064,die Suppe auslöffeln können,(to be able) to spoon the soup out,to have to solve a problem oneself,A,-0.48,1.50,3.39,1.82,4.79,1.93,3.39,2.12,4.41,1.86,4.27,2.24,88,4.15,2.11,24,4
+065,jemanden für dumm verkaufen,to sell someone for dumb,to kid someone thinking that they won't realise; to try to trick someone,U,-1.68,0.70,3.94,1.81,5.23,1.74,4.10,2.01,4.66,1.73,2.06,1.41,85,6.65,0.84,24,4
+066,sich dumm und dämlich reden,to speak oneself dumb and daffy,"to talk way too much, more than one wishes; to try unsuccessfully to convince someone of something",U,-1.55,0.83,3.58,1.86,4.52,1.82,3.93,2.07,4.52,1.75,3.38,2.27,79,6.47,0.84,23,5
+067a,jemanden wie ein rohes Ei behandeln,to handle someone as a raw egg,to treat someone very cautiously,U,-0.42,0.81,3.69,1.97,4.18,2.02,5.38,1.84,4.06,1.73,3.83,2.38,93,6.62,0.86,30,6
+067b,jemanden mit Samthandschuhen anfassen,to touch someone with velvet gloves,to treat someone very cautiously,A,-0.10,1.14,2.97,1.69,4.66,2.02,4.57,1.91,4.38,1.72,5.10,2.09,100,6.20,1.38,34,4
+068,sich nicht um ungelegte Eier sorgen,not to worry about unlaid eggs,to not worry about things yet to come,U,0.34,1.23,2.93,1.81,3.77,1.77,4.57,2.05,4.67,1.63,2.15,1.68,96,6.62,1.05,30,6
+069,sich etwas selbst einbrocken,to bring something onto oneself,to put oneself into trouble,U,-1.13,0.76,3.61,1.94,5.20,1.71,3.74,2.34,4.88,1.52,2.55,1.90,93,6.07,1.65,25,4
+070,einen Vogel haben,to have a bird (in the head),to be crazy,A,-1.39,0.99,4.00,1.98,6.00,1.44,1.87,1.84,5.78,1.48,2.68,2.18,97,6.15,1.51,15,3
+071,etwas unter Dach und Fach bringen,to bring something under roof and shed,to conclude something; to manage something well,U,1.45,0.96,2.87,1.63,4.83,1.83,4.10,2.13,5.13,1.60,2.66,2.11,89,6.32,1.19,28,6
+072,seine Schäfchen ins Trockene bringen,to take one's little sheep to a dry place (in the dry),to make one's own things safe; to take care of one's own things,A,1.10,1.32,3.13,1.57,4.55,1.59,4.23,2.11,5.09,1.67,3.19,2.18,82,6.57,0.74,32,5
+073,in Fahrt kommen,to come in drive,to (really) get going; to get excited about something; to work oneself up; to get in the mood for sex,U,1.03,0.95,3.13,1.50,5.57,1.36,4.81,1.94,3.47,1.59,3.32,2.01,79,6.77,0.50,13,3
+074,eine falsche Fährte verfolgen,to follow a (wrong) trail,to do something the wrong way (particularly in connection with the police); to follow an advice/decision that does not get one anywhere ,A,-1.45,0.77,3.06,1.63,4.17,1.93,5.50,2.02,3.63,1.68,3.33,2.23,92,5.94,1.44,26,4
+075,eine falsche Fährte legen,to lay/place a wrong trail,to purposely give wrong advice/information so that the other person does something the wrong way,A,-1.13,0.62,3.74,1.57,3.93,2.11,5.09,2.02,3.90,1.64,3.32,2.21,92,6.24,1.53,22,4
+076,jemanden auf die falsche Fährte locken,to bring someone on the wrong trail,to entice someone to believe the wrong/false lead,A,-1.45,0.85,3.63,1.56,4.68,1.70,5.40,1.96,3.91,1.82,3.00,2.08,79,5.71,1.60,33,6
+077,jemanden auf die richtige Spur bringen/führen,to take/lead someone to the right track,to help someone to find the right answer/informatio/path,A,1.38,0.87,3.23,1.73,4.37,1.88,5.13,2.01,4.19,1.86,3.29,1.80,93,6.03,1.50,40,6
+078,jemanden hinters Licht führen,to lead someone behind the light,to deceive someone; to pretend something; to simulate something,U,-1.77,0.80,4.16,1.61,5.10,1.79,3.03,2.51,5.19,1.65,3.29,2.21,97,5.86,1.68,26,4
+079,Farbe bekennen,to avow/confess/declare colour,to tell/admit the truth; to tell one's own opinion,U,0.84,0.82,3.74,1.86,4.93,1.64,2.72,2.22,5.44,1.48,2.31,1.83,92,6.30,1.15,13,2
+080,ins Fettnäpfchen treten,to step into the grease bowl,to embarrass oneself; to say something inappropriate unintentionally; to cause an unpleasant/embarrassing situation unintentionally,A,-1.48,0.72,4.26,1.98,5.63,1.56,3.10,2.34,5.69,1.38,3.97,2.39,85,6.50,1.23,21,3
+081,wie Gott in Frankreich leben,to live like God in France,to live very wealthily; to have a lot of money and show it,U,2.22,1.04,4.38,1.95,4.43,2.03,3.23,2.26,5.47,1.72,2.18,1.70,100,6.65,0.75,24,5
+082,kalte Füße bekommen,to get cold feet,"to get anxious about something and most likely do not get through with the planned thing, e.g., particularly wedding; to cancel something one has planned because of fear/anxiety",A,-1.29,0.64,3.74,1.98,5.41,1.59,2.97,2.11,4.59,1.86,4.71,2.44,97,5.93,1.22,17,3
+083,Fuß fassen,to grap/grasp/size foot,to become established; to settle down,A,1.35,0.61,3.13,1.65,5.17,1.65,3.07,2.33,4.81,1.80,3.58,2.23,90,5.62,1.95,9,2
+084,jemanden auf freien Fuß setzen,to set someone on free foot,to release someone (from prison); to set someone free (from prison),U,0.84,1.10,2.97,1.52,4.90,1.63,4.22,2.04,4.19,1.69,3.34,1.97,96,6.07,1.07,26,5
+085,weder Hand noch Fuß haben,to have neither hand nor foot,to make no sense at all; something has no logic,A,-1.26,0.86,3.48,1.96,5.28,1.60,3.47,1.90,5.42,1.46,3.07,2.00,83,6.66,0.77,21,5
+086,weder Fleisch noch Fisch sein,to be neither meat nor fish,not to be consequent; something is not clear; boring; to have no clear identity; not to belong to/be assigned a category,A,-0.81,0.88,2.97,1.80,3.96,1.97,3.20,1.94,4.93,1.70,2.89,2.08,55,5.59,1.55,25,5
+087,keinen Fußbreit weichen,not to yield a foot's width/to not give an inch,to not move; to not change my position (also in the sense of opinion/ideas),A,0.00,1.13,3.29,1.66,3.81,1.82,5.84,1.49,3.59,1.78,3.96,2.15,79,6.64,0.91,21,3
+088,auf eigenen Füßen stehen,to stand on one's own feet,to be independent,A,2.13,0.96,3.45,1.82,5.48,1.88,4.88,1.88,3.81,1.60,4.48,2.34,97,5.89,1.40,21,4
+089,etwas mit den Füßen treten,to step on something with feet,to treat/look/perceive something with contempt,A,-1.81,0.75,4.68,1.60,4.90,1.74,5.06,2.12,3.59,1.64,4.87,2.38,85,6.47,1.19,22,5
+090,sich jemandem zu Füßen werfen,to throw oneself at someone's feet,to try to please someone by subjugating oneself ,A,-0.65,1.31,4.71,1.72,3.79,1.89,5.16,1.77,4.16,1.72,4.30,2.53,93,5.92,1.89,25,5
+091,jemandem in den Hintern kriechen,to crawl into someone's ass/back,to please someone in order to get favours (negative connotation); to kiss-ass; to flatter someone,U,-2.06,0.85,4.76,1.68,5.47,1.41,3.41,2.41,5.09,1.84,3.03,2.06,93,6.31,1.23,28,5
+092,aufs Ganze gehen,to go on the whole,to risk a lot,U,0.87,0.88,4.35,1.82,5.55,1.74,4.16,2.38,4.44,1.74,2.10,1.51,90,6.38,1.12,14,3
+093,Geld wie Heu haben,to have as much money as hay,to have a lot of money,U,1.23,1.65,3.74,2.00,4.76,2.01,4.87,2.17,4.38,1.58,3.16,2.21,97,5.96,1.51,15,4
+094,Geld zum Fenster hinauswerfen,to throw money out of the window,to waste money,A,-1.71,0.86,3.90,1.64,5.93,1.17,5.91,1.63,4.34,1.72,4.26,2.42,97,5.97,1.74,26,4
+095,Schnee von gestern sein,to be yesterday's snow,to be no longer relevant/important,A,-0.97,0.90,2.81,1.78,5.13,1.85,3.56,2.08,5.00,1.52,2.45,2.01,97,6.38,0.82,20,4
+096,kalter Kaffee sein,to be cold coffee,to be already known/old news,A,-0.97,0.57,2.73,1.91,4.07,1.81,2.53,1.81,4.97,1.90,3.67,2.40,90,5.97,1.54,16,3
+097,nicht von gestern sein,to not be born yesterday,to not be old-fashioned; to be up to date,A,1.13,0.88,2.90,1.80,4.57,1.77,4.48,2.10,4.63,1.91,1.71,1.37,93,6.50,1.07,19,4
+098,jemanden aufs Glatteis führen,to lead someone on glaze ice,to lead someone into trouble withouth him/her realising that,A,-1.65,0.71,3.48,1.59,4.62,1.86,4.94,1.98,5.16,1.46,3.77,2.18,95,6.40,1.16,26,4
+099,ins Gras beißen,to bite into the grass,to die,A,-2.35,1.02,4.84,2.00,4.70,1.70,2.75,2.14,5.66,1.38,4.65,2.36,100,5.94,1.55,13,3
+100,aus dem Gröbsten heraus sein,to be out of the roughest,to have overcome the worst,U,1.30,1.09,3.65,1.74,5.48,1.35,4.00,2.05,4.41,1.92,1.94,1.44,94,5.81,1.47,24,5
+101,ein Haar in der Suppe finden,to find a hair in the soup,to find a little mistake; to find something tiny to complain/moan about,A,-1.19,0.70,3.52,1.65,4.29,1.76,3.87,2.19,5.06,1.79,4.26,2.08,100,6.17,1.44,23,6
+102,sich keine grauen Haare wegen etwas wachsen lassen,to not let oneself grow grey hair because of something,to not let oneself continuously worry about something,U,0.77,1.07,2.87,1.41,4.21,2.08,4.03,2.26,4.48,1.71,3.60,2.37,100,5.81,1.45,43,8
+103,jemandem bis aufs Haar gleichen,"to resemble someone ""(up) to the hair""",to look identical to someone,A,0.41,0.95,2.73,1.76,4.10,2.07,5.84,1.53,3.25,1.55,4.42,2.33,97,6.10,1.45,27,5
+104,an den Haaren herbeigezogen sein,to be pulled over by the hair,a lie; an allegation that cannot be proven right; there is no evidence to prove an accusation/to prove someone guilty; one is aware that the other person is not telling the truth,A,-1.13,1.06,3.71,1.70,5.21,1.78,3.43,2.31,5.31,1.62,2.87,2.29,93,5.68,1.44,28,5
+105,kein gutes Haar an etwas lassen,not to leave a good hair at someone/something,to have nothing good to say about someone/something,U,-1.43,1.01,3.87,1.89,5.07,1.78,3.47,1.90,5.16,1.71,2.58,1.71,97,6.61,1.07,26,6
+106,sich in den Haaren liegen,to lie oneself in the hair,to fight; to argue,U,-1.53,0.63,4.00,1.51,4.55,1.96,3.03,2.27,5.38,1.48,3.24,1.98,100,6.00,1.54,21,5
+107,Danach kräht kein Hahn mehr,No rooster crows about that anymore,No one is any longer interested in that,U,-1.27,1.11,2.65,1.60,4.13,2.06,3.23,2.19,5.29,1.60,3.42,2.42,96,6.13,1.56,23,5
+108,Die Sache hat einen Haken,The thing has a hook,there's a catch,A,-1.26,0.73,3.65,1.87,5.53,1.70,3.52,2.16,5.13,1.54,1.93,1.53,86,6.50,1.16,21,5
+109,etwas in den falschen Hals kriegen,to get something in the wrong pipe (throat),to misunderstand something; to understand/interpret something wrongly and then act unpleasantly according to the misinterpretation,U,-1.35,0.75,4.19,1.82,5.31,1.75,4.25,2.26,4.97,1.62,3.50,1.99,100,6.50,0.95,29,6
+110,auf der Hand liegen,to lie on the hand,to be obvious,A,0.61,0.95,2.26,1.24,5.40,1.71,3.30,2.37,4.48,1.86,4.28,2.36,93,6.17,1.44,16,4
+111,für jmdn die Hand ins Feuer legen,to put the hand in the fire for someone/something,to warrant for someone else's reliability,A,1.59,1.02,4.74,1.55,5.50,1.36,4.41,2.05,5.16,1.67,4.26,2.35,97,6.17,1.44,27,7
+112,sich mit Händen und Füßen gegen etwas wehren,to resist something/to defend oneself against something with hands and feet,to oppose something with all one's strenght,A,-1.13,1.48,5.03,1.69,5.24,1.64,5.81,1.93,3.50,1.68,5.10,2.26,90,6.29,1.13,37,8
+113,ich möchte nicht in ihrer Haut stecken,I wouldn't like to be in her skin,to not wish to be in someone else's situation,U,-1.68,0.91,4.30,1.90,5.76,1.38,5.19,1.96,4.45,1.79,3.61,2.40,97,5.76,1.70,32,7
+114,ein Herz und eine Seele sein,to be a heart and a soul,to be emotionally very close/cnnected to someone; to be tightly connect to someone,U,2.10,1.06,4.19,1.92,5.41,1.40,4.77,2.22,4.59,1.74,2.14,1.67,79,4.81,2.33,23,6
+115,etwas auf dem Herzen haben,to have something on the heart,to have something important to say that you really want/should say,U,-0.42,1.39,4.71,1.60,5.59,1.57,3.81,2.07,4.44,1.92,3.00,2.02,97,6.75,0.65,22,5
+116,jemandem rutscht das Herz in die Hose,someone's heart falls/slides into the trousers,to be  scared,U,-1.23,0.76,5.10,1.58,4.48,1.99,3.58,2.28,5.16,1.79,3.23,2.14,97,6.52,1.30,31,7
+117,einen Blick hinter die Kulissen werfen,to see behind the backdrops,"to look into something and its function, to look at how something works",A,0.84,1.10,2.68,1.66,5.24,1.60,5.53,1.81,3.65,1.70,4.90,2.47,85,6.07,1.44,33,6
+118,auf zwei Hochzeiten tanzen,to dance at two weddings,to be involved in two things at the same time,A,-0.93,1.05,3.97,1.87,4.66,1.90,3.90,2.33,5.61,1.33,3.23,2.08,80,6.28,1.22,23,4
+119,auf dem Holzweg sein,to be on the wood way/road,to try to resolve a problem but to be on the wrong way,A,-1.32,0.75,3.19,1.74,4.73,1.93,2.78,2.07,5.84,1.37,2.32,1.70,90,5.53,1.59,17,4
+120,bei jemandem ist Hopfen und Malz verloren,hop and malt are lost with someone,every trust is lost in someone; to have no longer hope in someone's success/reliability,U,-1.77,0.90,3.94,1.90,4.86,1.92,2.97,2.27,5.90,1.14,2.16,1.73,82,6.90,0.31,35,7
+121a,Jacke wie Hose sein,to be as jacket as trousers,to make no difference,U,-0.13,0.85,2.83,2.09,5.03,1.48,3.03,2.20,5.16,1.77,2.06,1.55,97,6.68,0.72,16,4
+121b,gehüpft wie gesprungen sein,to be as hopped as jumped,to make no difference,U,0.00,0.76,2.45,1.52,4.96,1.72,4.03,2.24,4.91,1.77,2.97,2.01,96,6.35,1.09,24,4
+122,vor die Hunde gehen,to go in front of the dogs,to be/get neglected; to die miserably; to collapse; to decay; to perish miserably; to be depraved,U,-2.45,0.77,5.13,1.68,4.60,1.90,2.84,2.13,5.88,1.41,2.87,2.11,85,6.35,0.98,16,4
+123,einem kommt etwas langsam hoch ,something comes up (from the stomach) slowly,to find something disgusting; to no longer be able to tolerate something,A,-1.47,0.78,4.21,1.42,4.39,1.93,3.90,2.09,4.31,1.79,4.00,2.07,88,6.53,0.88,26,6
+124,die Nase voll haben,to have the nose full,to no longer be able to tolerate something; to be fed up with something,A,-1.61,0.95,4.43,1.83,5.69,1.71,3.13,2.11,5.03,1.71,4.29,2.21,96,6.59,0.91,16,4
+125,jemanden durch den Kakao ziehen,to drag someone through the cocoa/hot chocolate,to ridicule someone; to make fun of someone,A,-1.44,0.88,3.97,1.94,4.53,1.85,2.41,2.11,5.81,1.31,3.58,1.96,87,6.38,1.24,27,5
+126,etwas auf die hohe Kante legen,to place something on the high edge,to save money for difficult times,A,1.17,0.99,3.06,2.08,5.14,1.85,2.66,2.19,5.00,1.59,3.35,2.06,86,6.50,0.84,25,6
+127,alles für die Katz sein,to be all for the cat,something is wasted effort,A,-1.55,0.89,4.16,1.90,5.13,1.74,2.59,2.01,5.94,1.56,2.17,1.72,97,5.68,1.57,19,5
+128,dagegen ist kein Kraut gewachsen,no herb has grown against that ,there's no solution/remedy for that,A,-0.68,1.11,3.33,1.81,4.63,1.59,4.63,1.77,5.00,1.57,3.16,2.27,94,5.67,1.66,28,5
+129,wie ein Esel vorm Berg stehen,to stand in front of the mountain like a donkey,to feel overwhelmed by a task/something to do that requires a lot of effort,A,-1.04,0.64,3.00,1.41,2.70,1.61,2.33,1.73,5.43,1.50,2.89,2.08,69,5.97,1.70,24,6
+130,Das ist eine brotlose Kunst,that's a breadless art,there's no money to earn with this,U,-1.50,0.84,3.07,1.96,5.28,1.73,4.77,2.06,4.07,1.62,2.70,2.14,97,6.73,0.60,23,5
+131,Das ist keine Kunst,that's no art/piece of art,that's not hard/difficult,A,-1.00,1.03,2.65,1.66,5.30,1.66,4.44,2.33,2.78,1.39,2.58,2.25,100,6.28,1.31,16,4
+132a,jemandem auf den Keks gehen,to go on someone's cookie/biscuit,to annoy someone,U,-1.55,0.68,3.93,1.84,5.86,1.33,2.61,2.14,5.97,1.43,2.33,1.54,100,6.03,1.67,23,5
+132b,jemandem auf den Wecker/Zeiger gehen,to go on someone's alarm/hand,to annoy someone,U,-1.61,0.76,4.58,1.80,5.79,1.08,2.69,2.15,5.97,1.20,2.61,1.63,100,6.55,0.89,32,5
+133,jemanden auf die Palme bringen,to bring someone up the palm tree,to make someone angry,A/U,-1.53,0.98,4.70,1.32,5.40,1.43,2.90,2.31,5.56,1.50,3.16,1.90,100,6.64,0.73,26,5
+134,jemanden zur Weißglut bringen,to bring someone to white fervour/blaze/glow,to make someone furious/to rile someone,U,-2.10,0.83,5.58,1.34,5.07,1.94,3.60,2.21,5.50,1.65,2.79,2.11,96,6.11,1.10,26,4
+135,an die Decke gehen,to go to the ceiling (because of anger),to get angry,U,-1.74,0.93,4.84,1.81,5.38,1.72,3.48,1.91,5.20,1.56,3.13,1.91,100,6.30,1.32,15,4
+137,etwas kurz und klein schlagen,to beat something (until it becomes) short and small,to destroy something because of anger,A,-2.22,0.91,5.03,1.94,4.83,1.70,5.88,1.70,3.22,1.60,4.65,2.61,87,6.75,0.67,25,5
+138,vor Wut kochen,to boil of rage,to be furious,U,-2.23,0.84,5.68,1.56,5.27,1.76,4.59,2.01,4.69,1.73,4.23,1.96,100,6.35,1.38,12,3
+139,unter jemandes Pantoffel stehen,to stand under someone's slipper,to be dominated by someone/to be under someone's power,U,-1.66,0.77,3.81,1.74,3.90,2.09,3.35,2.26,5.77,1.20,2.70,2.02,93,4.80,2.46,28,4
+140,seine Pappenheimer kennen,to know one's inhabitants of the city of Pappenheim,to know someone (most likely a group such as one's friends; a class; people from the same village) very well and to be able to predict their behaviour,U,0.63,1.19,2.97,1.67,4.62,1.70,2.38,2.08,5.19,1.75,1.66,1.34,84,5.83,1.56,23,3
+141,mit Pauken und Trompeten durchfallen,to go down/fail with drums and trumpets,to fail miserably/dismally/gloriously,A,-2.19,0.69,4.48,1.67,4.00,2.23,3.00,2.10,5.28,1.44,3.63,2.34,96,6.62,0.78,32,5
+142,Perlen vor die Säue werfen,to throw pearls to the sow,to waste something precious,A,-1.62,1.17,3.87,2.13,4.77,1.77,3.27,2.20,5.55,1.46,2.63,2.17,95,6.61,0.69,22,5
+143,mit jemandem Katz und Maus spielen,to play cat and mouse with someone,to tease s.o. like a cat does with a mouse; to try to deceive someone; to avoid someone,A,-1.19,0.91,3.81,1.49,4.63,1.50,4.34,2.25,4.94,1.74,2.79,2.08,64,6.07,1.49,29,6
+144,das Pferd von hinten aufzäumen,to bit/bridle the horse from the back,to do something wrongly; to do something the wrong order,A,-0.65,1.09,2.55,1.72,3.52,1.81,3.61,1.89,5.14,1.79,3.32,2.09,68,6.73,0.72,26,5
+145,das ist keinen Pfifferling wert,That's not worth a chantarelle,that's not worth anything,A,-1.55,0.85,3.32,1.85,4.38,2.08,4.32,2.33,4.13,2.11,2.35,1.76,93,6.69,0.66,27,5
+146,sie kümmern sich keinen Pfifferling um ihre Kinder,They don't give a chantarelle about their kids,they don't look after their kids at all; they don't care about their kids,U,-2.55,0.57,3.97,1.99,2.89,1.91,3.72,2.20,5.00,1.68,2.14,1.27,97,5.90,1.73,43,8
+147,das Rad nicht neu erfinden,not to invent the wheel from scratch,not to invent something completely new and original,A,-0.23,0.92,2.55,1.61,4.31,1.79,4.50,2.18,4.63,1.48,2.62,2.03,86,6.00,1.67,22,5
+148,jemandem das Wasser nicht reichen können,not to be able to reach someone's water,not to be as good as someone else (particularly in situations such as ex-partner vs. new partner; ex-chef vs. new one),A,-1.29,0.78,4.13,1.80,5.43,1.48,3.22,2.35,5.38,1.64,3.10,2.09,96,6.52,1.06,35,6
+149,Öl ins Feuer gießen,to pour oil in the fire,to make a big problem even bigger,A,-1.72,0.85,4.81,1.47,4.87,1.81,5.06,2.17,4.45,1.61,4.23,2.30,100,6.07,1.49,16,4
+150,aus einer Mücke einen Elefanten machen,to make an elephant out of a midge,to exaggerate something; to make a big fuss out of a little thing,U,-1.32,0.79,4.32,1.58,4.97,2.06,5.06,1.79,5.03,1.67,2.94,2.05,97,6.66,0.61,33,6
+151,in ein Wespennest stechen,to prick into a wasps nest,to bring on a huge problem; to cause major trouble; to create a disturbance; to touch upon a delicate issue; to be exposed to harsh criticism; to create many enemies,A,-1.43,1.10,4.97,1.35,3.81,1.94,4.37,2.09,4.63,1.70,4.10,2.50,84,6.61,0.83,22,4
+152,schlafende Hunde wecken,to awake sleeping dogs,to make someone aware of a problem that then becomes one's own problem; to bring up a topic that has been long forgotten,A,-1.37,0.76,3.61,1.93,4.79,1.86,4.23,1.87,5.00,1.95,3.26,2.31,93,6.31,1.37,21,3
+153,es geht um die Wurst,It's about the sausage,it is very important,A,0.13,0.85,4.45,1.77,5.53,1.59,2.13,1.93,5.09,1.67,2.72,2.12,96,6.63,0.93,16,5
+154,jemandem raucht der Kopf,someone's head smokes,to be overstrained; someone thinks about something strenuously,U,-1.06,0.89,3.90,1.86,5.07,1.91,4.22,2.21,5.25,1.50,3.47,2.30,100,6.64,0.87,21,4
+155,mit jemandem ein Hühnchen zu rupfen haben,to have a young chicken to pluck with someone,"to have an issue to solve with someone, e.g., if someone damaged my car",A,-1.35,0.75,4.42,1.82,5.03,1.75,2.52,2.11,5.28,1.95,3.50,2.05,96,6.11,1.53,35,7
+156,mit jemandem unter vier Augen sprechen,to talk with someone under four eyes,to talk privately with someone,U,0.00,0.72,3.57,1.83,6.13,1.20,5.81,1.76,3.19,1.78,5.07,2.36,100,6.22,1.45,33,6
+157,den Hut nehmen müssen,to have to take the hat,"to have to leave a position, e.g., in a firm",A,-1.16,1.37,4.08,1.85,4.08,2.18,3.59,2.27,4.60,1.71,3.14,2.10,78,6.17,1.23,18,4
+158,jemanden feuern,to fire someone,to dismiss someone,U,-2.00,0.89,4.71,1.64,5.83,1.66,3.35,2.43,4.78,1.86,3.00,2.24,96,5.36,2.09,14,2
+159,jemandem ein Dorn im Auge sein,to be a thorn in someone's eye,to be unbearable for someone; to be unbearably annoying to someone; to act against someone's interests,U,-2.00,0.77,4.33,1.60,4.76,1.62,5.00,1.86,5.34,1.45,3.71,2.40,96,6.07,1.76,25,6
+160,wie warme Semmeln weggehen,to go away like hot bread rolls,"to be very popular/liked (only for things, not persons); something sells very well",A*,2.00,1.00,3.58,1.98,4.57,1.68,4.47,1.93,3.88,1.88,4.07,2.12,97,6.32,0.94,23,4
+161,wie ein Fisch im Wasser sein,to be as (healthy as) a fish in water,to be very healthy; to feel comfortable within one's envrionment/with something that one does,A,1.87,1.20,3.00,1.66,3.86,1.98,4.68,2.36,4.39,1.48,3.67,2.32,72,5.24,2.02,23,6
+162,jemanden in den Sack stecken,to put someone in the sack,"to be (much) better than someone, e.g., in a competition",A,-0.45,1.33,3.97,1.61,3.71,1.60,3.03,2.15,4.90,1.52,3.30,2.35,85,6.00,1.54,24,5
+163,jemandem die Suppe versalzen,to put too much salt in someone's soup,to spoil things for someone,A,-1.44,0.91,3.97,1.40,4.57,1.96,5.09,2.04,4.65,1.74,4.97,2.06,90,6.70,0.60,25,4
+164,das ist ein Schlag ins Wasser,that's a blow in the water,that's a failure,A,-1.57,0.84,3.68,1.82,4.04,1.83,3.10,2.09,4.76,1.68,2.79,1.93,95,6.41,1.22,24,6
+165,das Blaue vom Himmel versprechen,to promise the blue from the sky,to make exaggerate/impossible promises,U,-1.29,0.82,3.42,1.69,5.10,1.57,3.72,2.19,5.03,1.62,2.48,1.79,75,5.93,1.63,28,5
+166,es graut mir,"it ""greys"" me",it horrifies me,U,-1.94,0.72,4.61,2.08,5.17,1.78,3.44,2.14,4.34,2.09,2.55,2.01,93,6.59,0.76,10,3
+167,ins Schwarze treffen,to hit in the black,to hit something perfectly; to say/make something perfectly right,A,1.68,1.19,4.58,1.82,5.31,1.79,4.44,2.23,4.26,1.71,3.58,2.20,97,6.04,1.26,18,3
+168,es ist nicht auf seinem Mist gewachsen,It hasn't grown on his dung (crap),it is not his idea; often used for negative events and explaining that this even was not his/her fault/responsibility,A,-0.48,1.06,3.29,1.88,4.93,1.75,3.59,2.21,4.75,1.85,2.40,1.67,100,6.59,0.80,32,7
+169,keinen Cent in der Hose haben,to have no cent in the trousers,to have no money at all (with you),A,-2.03,0.97,3.07,2.00,3.69,2.29,6.00,1.86,3.03,1.89,4.10,2.50,96,6.32,1.17,24,6
+170,es ist etwas im Gange,there is something going on/there is something under way,there's something going on; something is happening; something is being planned,A,-0.26,0.82,2.43,1.41,5.17,1.74,3.81,2.42,3.81,1.73,2.00,1.65,93,6.23,1.56,17,5
+171,fest im Sattel sitzen,to sit steady on the saddle,to be secure/safe; to be in a secure position,A,1.77,0.68,3.07,1.82,3.86,1.75,4.90,1.76,5.09,1.67,4.03,2.27,92,6.30,1.59,18,4
+172,das Tüpfelchen auf das i setzen,to put the dot on the i,to make something become perfect (not necessarily negative) more cognitive precision,A,0.94,1.34,3.71,1.83,4.37,2.08,3.52,2.23,4.84,1.68,2.77,1.96,77,6.28,1.28,26,6
+173,die Kirsche aufs Sahnehäubchen setzen,to put the cherry on the cream cap/whipped cream,to make something become perfect (not necessarily negative) more cognitive precision,A,1.52,1.43,3.07,1.68,2.74,1.93,3.23,2.14,5.03,1.68,3.97,2.59,60,5.11,2.22,33,5
+174,einen Geistesblitz haben,to have a genious lightning,to suddenly come up with a very good idea,U,1.94,0.93,4.16,1.83,5.31,1.56,4.29,2.18,5.23,1.67,2.94,1.90,100,6.17,1.17,22,3
+175,den Kopf woanders haben,to have the head/mind somewhere else,to be distracted by non-relevant thoughts,U,-0.71,0.53,3.00,1.59,5.40,1.38,4.19,1.80,4.91,1.55,2.83,2.04,100,6.30,1.47,20,4
+176,zwei Fliegen mit einer Klappe schlagen,to hit two flies with a clack,to resolve two issues at the same time/at once; to take two opportunities at the same time,A,1.58,0.99,3.42,1.93,5.55,1.76,5.10,1.87,4.94,1.79,4.00,2.48,90,6.15,1.54,33,6
+177,vom Regen in die Traufe kommen,to come from rain to the drain pipe/rainwater pipe,to go from a bad situation to a worse one,A,-1.38,1.01,4.03,1.83,4.48,1.98,3.69,2.29,5.03,2.06,2.90,2.17,68,6.41,1.01,25,6
+178,schlechte Laune haben,to have a bad mood,to be in a bad mood,U,-1.55,0.81,3.16,1.63,6.07,1.69,6.03,1.70,2.97,2.18,2.97,2.33,100,6.19,1.36,19,3
+179,jemandem einen Korb geben,to give someone a basket,to reject someone who shows an interest in you/tries it on with you,A,-1.52,0.93,4.06,1.71,5.30,1.73,2.63,2.43,6.00,1.63,2.87,2.05,96,6.21,1.18,22,4
+180a,sich auf dünnem Eis bewegen,to move on thin ice,to be in a risky situation,A,-1.42,0.72,4.48,1.59,5.03,1.67,5.48,1.88,4.31,1.96,4.48,2.64,62,6.57,0.82,23,5
+180b,sich auf einer Gratwanderung befinden,to be on a tight rope walk,to be in a situation that can change very quickly from good to bad or the other way round; to be in a very complicated situation because of the possible consequences,U,-0.45,0.81,3.68,1.76,4.47,1.81,4.39,2.12,4.44,1.81,3.35,2.46,66,6.32,1.14,33,5
+181a,mir fällt ein Stein vom Herzen,a stone is falling from my heart,to be emotionally relieved,U,1.90,1.04,4.68,1.51,5.59,1.68,5.06,1.75,5.25,1.50,3.26,2.16,100,5.92,1.64,25,6
+181b,eine Last loswerden,to get rid of a load,to be relieved from something very demanding/from a big charge (less emotional),A,1.55,1.15,3.57,1.83,4.10,1.92,5.55,2.13,3.03,1.70,3.13,2.31,80,6.52,1.12,17,3
+182,hochnäsig sein,"to be ""high-nosed""",to be a snob/posh/arrogant,U,-1.84,0.73,3.45,1.84,5.30,1.76,4.27,2.00,3.72,1.89,3.42,2.26,96,6.55,0.91,13,2
+183,den Faden verlieren,to lose the thread,to not be able to continue and conclude a thought (also speech/discourse),A,-1.10,0.60,3.61,1.75,5.70,1.53,4.03,2.19,5.50,1.59,3.10,1.96,97,6.35,0.85,17,3
+184,kein Blatt vor den Mund nehmen,to put no sheet in front of the mouth,"to speak frankly, plainly",A,0.10,1.08,3.81,1.89,5.60,1.61,3.75,2.34,4.72,1.49,3.93,2.09,89,5.96,1.51,25,6
+185a,Klartext reden,to talk in clear text,to speak honestly,U,0.81,1.19,4.03,2.06,5.83,1.44,5.47,1.98,3.06,1.66,4.06,2.62,100,6.48,1.02,13,2
+185b,mit jemandem reinen Tisch machen,to clear the table with someone,to speak honestly; to sovle problems that you had with that person,A,0.74,1.09,4.00,1.57,4.93,1.67,3.84,2.25,5.00,1.37,3.21,1.84,100,6.12,1.40,28,5
+186,jemandem reinen Wein einschenken,to pour someone clear wine,to say/reveal the truth,A,0.84,1.32,3.77,1.77,5.00,1.54,3.23,2.04,5.47,1.37,4.10,2.15,90,5.85,1.80,29,4
+187,ein Ass im Ärmel haben,to have an ace in the sleeve,to have something that helps winning and to use it when it is least expected,A,1.42,1.12,3.47,1.63,5.07,1.83,4.87,2.06,4.38,1.81,3.23,2.08,90,6.44,1.22,18,5
+188,das Schlusslicht sein,to be the rear light,to be the last one or the worst one (not necessarily in a negative sense),U,-1.68,1.05,3.03,1.90,4.66,1.99,5.07,1.98,4.16,1.88,2.79,1.95,100,6.48,1.31,19,3
+189,des Rätsels Lösung suchen,to look for the solution of the puzzle,to look for the actual/factual truth; to look for a solution,A,0.68,0.83,2.52,1.50,4.86,1.81,6.19,1.55,3.34,1.96,2.43,2.18,97,6.10,1.59,22,4
+190,jemandem eins reinwürgen,to choke something into someone,to do something evil to someone,A,-1.97,1.20,4.45,1.77,5.10,1.69,4.06,2.03,5.00,1.48,3.23,1.98,73,5.21,2.20,22,3
+191,Luftschlösser bauen,to build castles in the air,to make oneself delusions; to imagine situations that won't come true,U,-0.63,0.93,3.58,1.61,4.10,1.84,4.32,2.10,5.22,1.74,2.55,1.89,93,6.38,1.21,18,2
+192,Klarschiff machen,to make clear boat/to clear the boat,to put order; to tidy up,A,1.23,0.96,3.03,2.04,5.24,1.55,3.50,2.36,4.42,1.73,2.60,1.77,97,6.10,1.57,16,2
+193,Dreck am Stecken haben,to have mud/filth on the stick,to have done something forbidden; to have done something illegally,A,-2.10,0.83,4.52,1.57,5.17,1.65,3.28,2.02,5.16,1.78,2.70,2.23,96,6.59,0.87,19,4
+194,jemandem eine harte Nuss zu knacken geben,to give someone a hard nut to crush,to give someone a very difficult task to execute,A,-0.39,0.84,3.63,1.87,4.34,2.06,4.53,1.78,4.88,1.74,3.87,2.34,96,6.79,0.62,35,7
+195,den Stier bei den Hörnern packen,to catch the bull from the horns,to tackle a problem directly; not to be afraid of conflict,A,1.10,1.16,4.00,1.95,3.93,1.62,3.68,1.89,4.47,1.70,4.48,2.63,90,6.50,0.86,27,6
+196,ein Problem an der Wurzel packen,to pack a problem at the root,to tackle a problem from its source,U,1.35,1.31,4.16,1.73,4.48,1.64,5.58,1.95,4.50,1.78,3.55,2.29,75,5.11,2.14,27,6
+197,einen Frosch im Hals haben,to have a frog/lump in the throat,to be unable to speak; to have a hoarse/husky voice; to clear one's throat,A,-0.91,0.78,3.17,1.51,5.47,1.68,3.83,2.38,4.91,1.97,3.87,2.17,75,6.30,1.12,22,5
+198,im Dunkeln tappen,to grope/pad in the dark,to have no idea at all,A,-1.09,0.64,3.39,1.45,4.80,1.88,5.13,2.01,3.88,1.77,4.32,2.48,97,6.53,1.05,15,3
+199,in den Tag hineinträumen,to dream into the day (daydreamer),not to be realistic; to day-dream; to live in one's own world; to experience a day without stress,U,-0.19,1.03,2.90,1.85,4.76,1.79,5.13,2.00,3.41,1.70,2.77,2.04,63,6.30,1.18,21,4
+200,den Kürzeren ziehen,to pull the shortest(s),to lose; to have disadvantages; to have bad luck,A,-1.35,0.71,3.71,1.75,5.55,1.62,4.34,2.12,4.58,1.69,2.97,2.10,96,6.21,1.20,17,3
+201,Flausen im Kopf haben,to have nonsense in the head,to have weird ideas in mind,U,-0.87,1.02,3.06,1.59,4.87,1.59,3.53,2.20,4.81,1.79,2.10,1.66,93,5.52,2.04,18,4
+202,den Schwanz einziehen,to pull in the tail,to run away from a scary/difficult situation; to be a coward,A,-1.52,0.72,3.87,1.67,4.97,1.64,3.59,2.11,5.03,1.62,3.87,2.25,94,5.64,1.87,19,3
+203,der Magen hängt einem bis in die Kniekehlen,to have the stomach hanging in the hollow of the knee,to be extremely hungry,U,-1.61,0.92,3.79,1.99,3.96,2.03,4.20,2.30,4.67,1.79,3.74,2.25,91,6.33,1.45,36,8
+204,die Karten offen legen,to lay the cards open,to be honest/to do things honestly,A,0.71,1.10,3.47,1.78,4.52,1.88,5.22,1.96,4.13,1.98,4.16,2.34,89,6.13,1.31,19,4
+205,mit leeren Händen zurückkommen,to come back with empty hands,to get nothing out of something,A,-1.58,0.85,3.39,1.93,4.80,1.86,6.19,1.80,3.06,1.67,4.68,2.30,93,4.65,2.27,27,4
+206,ich zähle die Sekunden,I count the seconds,to be unable to wait for something,A,-0.52,0.91,3.77,2.11,4.00,2.21,5.19,1.96,3.00,1.46,3.97,2.40,85,4.32,2.25,19,4
+207,meine Tage sind gezählt,my days are counted,to be about to die; to have little time remaining to live,A,-2.47,0.63,4.39,1.73,3.50,1.93,4.74,2.11,4.23,1.57,2.73,2.38,79,6.45,1.35,22,4
+208,mit einem Bein im Grab stehen,to stand with one leg in the grave,to be almost dead,A,-2.29,0.78,4.90,1.83,4.27,1.68,5.34,1.84,4.78,1.72,3.93,2.39,97,6.32,1.19,24,6
+209,in der Blüte seiner Jahre sein,to be in the blossom of one's years,to be at one's best age,U,1.97,0.80,3.55,1.89,4.24,1.86,4.75,2.08,4.63,1.58,3.19,2.15,86,6.40,0.86,25,6
+210,etwas für bare Münze nehmen,to take something for cash money,to believe something; to take something literally,A,-0.29,0.90,3.13,1.85,4.90,1.90,3.28,2.00,4.88,1.52,2.16,1.61,93,5.37,1.86,23,5
+211,der Sieg ist zum Greifen nah,the victory is close to grasp,to be about to win,U,1.68,0.87,3.93,1.80,4.83,1.83,5.81,1.40,3.61,1.43,3.94,2.28,93,3.72,1.81,23,6
+212,auf heißen Kohlen sitzen,to sit on hot/burning coal,to be in a situation that can no longer be tolerated/borne; to be in a hurry; to wait excitedly about something important; to feel impatient,A,-1.42,0.76,4.68,1.64,4.83,1.70,4.81,2.12,5.09,1.78,4.53,2.22,90,5.21,2.24,21,4
+213,mit falschen Karten spielen,to play with wrong cards,to cheat,A,-1.72,0.73,3.58,1.88,4.40,1.98,5.32,2.09,3.91,1.53,3.39,2.32,93,6.50,1.01,24,4
+214,den Schnabel halten,to hold one's beak shut,to shut up,A,-1.00,0.68,3.13,1.75,4.50,1.91,4.77,2.19,4.44,1.74,3.94,1.86,100,6.23,1.45,17,3
+215,mit beiden Beinen im Leben stehen,to stay in life with both legs,to have a regular life; to have no illusions about life; to be very realistic about life,U,2.00,1.03,3.29,1.66,5.17,1.71,4.61,2.16,4.41,1.58,3.84,2.25,97,6.12,1.27,28,6
+216,ohne mit der Wimper zu zucken,without twiching the eye lashes,to do something withouth hesitation,A,-0.03,1.28,3.65,1.87,5.27,1.84,4.40,1.85,3.91,1.73,4.68,2.39,94,4.68,2.39,24,6
+217,die bittere Pille schlucken,to swallow the bitter pill,to accept something bad,A,-1.42,0.81,4.28,1.69,3.96,1.99,4.97,1.75,4.63,1.68,4.72,2.23,88,6.73,0.67,24,4
+218,wie geschmiert laufen,to go as lubricated,to work very well/with no hindrance,A,2.10,0.83,3.53,2.03,5.00,1.58,4.81,1.80,3.88,1.54,3.63,2.25,100,6.55,1.15,19,3
+219,zweigleisig fahren,to travel on two railtracks,to keep two options open at the same time (in particular having a second boy or girlfriend),U,-0.55,1.39,3.87,1.59,4.53,2.08,3.97,2.19,4.97,1.51,3.03,1.87,81,6.23,1.54,17,2
+220,sich am Riemen reißen,to pull oneself at the belt/lace,to brace oneself; to do something important even though one is not in the mood to do it,U,0.19,1.08,4.29,1.77,5.53,1.50,2.97,2.12,5.13,1.56,3.42,2.26,91,6.67,0.48,18,4
+221,keiner Fliege etwas zuleide tun,not to hurt a fly,to be very peaceful; to not hurt anyone,A,1.35,1.08,3.45,1.93,5.43,1.50,5.25,1.85,4.38,1.64,2.90,2.11,100,5.97,1.56,27,5
+222,Himmel und Hölle in Bewegung setzen,to move heaven and hell,to use all one's possible strengths/efforts to achieve something,U,0.91,1.23,4.90,1.54,4.73,1.91,4.68,1.96,4.97,1.87,2.04,1.60,92,6.60,0.71,30,6
+223,auf der Anklagebank sitzen,to sit at the dock,to be accused of something,A,-1.90,0.75,4.32,1.72,4.10,2.09,5.65,2.01,3.42,2.01,4.29,2.53,96,4.93,2.18,23,4
+224,aufs falsche Pferd setzen,to bet on the wrong horse,to rely/count on the wrong person; to make the wrong decision,A,-1.45,0.72,3.38,1.63,4.89,1.55,4.72,2.22,4.81,1.67,3.06,2.11,76,6.52,1.21,22,4
+225,etwas auf die leichte Schulter nehmen,to take something on the light shoulder,to be optimistic about something; to take something easy,U,-0.75,0.80,3.55,1.73,5.47,1.59,3.35,2.27,5.00,1.50,3.29,2.04,97,5.96,1.60,32,6
+226,den Boden unter den Füßen verlieren,to lose ground under the feet,to suddenly lose things that gave stability,A,-2.06,0.93,4.74,2.03,5.20,1.88,5.31,1.86,5.03,1.66,3.76,2.20,97,6.52,0.78,30,6
+227,jemanden wie eine Zitrone ausquetschen,to squeeze someone (out) like a lemon,to exploit someone; to interrogate someone,U,-1.61,0.80,4.32,1.78,3.75,2.10,5.58,1.50,4.47,1.90,4.25,2.46,83,6.48,0.95,34,5
+228,nicht um den heißen Brei reden,not to talk about the hot pulp/mash,to tell the truth bluntly,U,0.56,1.41,3.60,1.90,5.57,1.43,3.19,2.23,5.50,1.63,3.41,2.34,89,6.00,1.55,25,6
+229,das Handtuch werfen,to throw (away) the towel,to give up (something),A,-1.29,1.07,3.94,1.75,5.00,1.76,3.00,2.13,5.06,1.88,3.81,2.46,100,6.29,1.30,17,3
+230,einen Traum hegen,to nourish a (secret) dream,to have a (secret) wish,U,1.71,0.94,3.71,1.83,4.17,1.97,4.52,2.06,3.75,1.68,2.81,2.24,89,6.00,1.69,15,3
+231,es steckt noch in den Kinderschuhen,something still stands/sticks in the childen's shoes,to have a project that is not yet mature; to be at the beginning stage; to be at the beginning of the development,A,-0.45,0.81,2.81,1.72,4.31,1.75,4.74,2.00,4.63,1.88,2.35,1.82,90,3.87,2.14,30,6
+232,sich auf halbem Weg treffen,to meet (at) half way,to come to a compromise with someone,A,0.65,0.84,2.97,1.62,4.63,1.61,5.67,1.42,4.06,1.61,3.60,2.28,90,6.59,1.05,23,5
+233,im siebten Himmel sein,to be in the seventh heaven,to be extremely happy,U,2.61,0.80,5.45,1.52,5.40,1.73,3.16,2.16,5.75,1.46,2.10,1.68,100,5.67,1.79,19,4
+234,aus dem Häuschen sein,to be out of the little house,to be very excited/happy,A,1.10,1.51,4.29,1.92,5.50,1.41,2.78,2.21,5.38,1.50,2.39,1.80,96,6.06,1.59,18,4
+235,jmdm. den Kopf verdrehen,to spin someone's head,to let/make someone fall in love with you,A,1.03,1.20,4.97,1.50,5.33,1.69,3.84,2.26,5.09,1.55,3.66,2.21,85,6.37,0.88,21,4
+236,mit einem blauen Auge davon kommen,to come out (of it) with a blue eye,"to get out of a situation with a negative outcome, but the outcome could have been much worse",A,0.84,1.07,4.23,1.56,5.31,1.51,4.29,2.08,4.53,1.52,3.70,2.42,90,5.95,1.62,29,6
+237,sich aus dem Staube machen,to make oneself out of the dust,to run away,A,-1.19,1.08,3.52,1.57,5.33,1.79,3.38,2.34,5.00,1.55,2.72,1.65,100,5.43,1.91,22,5
+238,es liegt mir auf der Zunge,it lies on my tongue,to have something to say but to be unable to recall it,A,0.03,0.75,2.81,1.74,5.69,1.61,5.13,1.58,4.59,1.58,4.06,2.28,94,6.67,0.61,21,6
+239,nicht über den eigenen Tellerrand hinausgucken,to not be able to see beyond the (own) plate's rim,to be narrow-minded,A,-1.56,0.98,3.55,1.79,4.59,1.90,3.57,2.03,4.56,1.64,3.65,2.15,100,6.86,0.45,41,6
+240,seine Nase in etwas stecken,to tuck/insert one's nose into something,to barge in; to get oneself involved in issues regarding others,A,-0.97,0.98,3.65,1.62,5.07,1.46,4.31,2.12,4.69,1.69,4.55,2.32,89,6.44,1.11,23,5
+241,auf die Pauke hauen,to beat the kettledrum,to party a lot; to show off; to express one's opinion loudly,A,0.55,1.03,4.30,1.64,4.72,1.89,3.81,2.21,4.65,1.96,4.21,2.33,80,4.96,2.18,16,4
+242,alles auf den Kopf stellen,to place/put everything on the head,to move/turn over everything (in order to find something),A,-1.07,0.91,4.35,1.64,5.37,1.40,4.41,1.83,4.65,1.72,3.32,2.12,92,6.24,1.16,22,5
+243,jemandem einen Bären aufbinden,to bind a bear on someone,to tell someone an invented/unreal story,U,-1.45,0.77,3.80,1.73,4.11,1.74,2.33,2.12,5.78,1.74,3.00,1.97,97,6.53,0.84,27,4
+244,jmdn auf dem Laufenden halten,to hold someone on the running,to keep someone updated,U,0.77,0.88,2.48,1.46,6.21,1.15,3.56,2.11,4.23,1.56,2.52,1.84,100,5.96,1.81,25,5
+245,alles unter einen Hut bringen,to bring everything under the hat,to combine many things together easily; to bring many things in agreement; to make different things consistent?,A,1.23,1.09,2.94,1.71,5.59,1.27,4.13,2.20,4.84,1.93,2.66,1.99,62,5.97,1.66,25,5
+246,schlechte Karten haben,to have bad cards,to have no chance for success,A,-1.58,0.76,3.42,1.57,5.66,1.34,5.50,1.85,4.34,1.72,3.03,2.28,83,5.13,1.78,20,3
+247,sich den Kopf über etwas zerbrechen,to break one's head over something,to think about something (an issue) strainingly and continuously,U,-0.81,1.22,3.84,1.75,6.07,1.13,4.52,2.08,5.13,1.61,2.86,1.90,100,6.63,0.67,30,6
+248,mit seinem Latein am Ende sein,to be at the end of one's Latin,to not be able to find the solution to a problem,A,-1.72,0.73,3.90,1.81,5.23,1.57,3.19,2.18,5.19,1.51,1.69,1.23,100,5.54,1.88,25,6
+249,eine lange Leitung haben,to have a long cord,to not be good at something; to understand something very slowly,A,-1.60,0.77,3.13,1.61,5.43,1.50,4.00,2.20,5.34,1.36,2.24,1.86,89,5.89,1.52,21,4
+250,sich auf seinen Lorbeeren ausruhen,to rest on one's bay,to no longer strain oneself after a big achievement/success,A,-0.77,1.02,3.26,1.93,4.45,1.92,3.35,2.24,5.31,1.64,2.93,2.16,93,6.77,0.57,30,5
+251,in der Luft hängen,to hang in the air,to be unsure; to not know how it will continue,A,-1.13,0.94,3.65,1.91,5.10,1.72,3.77,1.93,5.00,1.59,3.29,1.90,86,6.38,1.35,15,4
+252,viel um die Ohren haben,to have a lot around one's ears,"to be very busy, to have a lot of things to do",A,-0.77,0.72,3.42,1.61,6.00,1.25,3.68,2.27,4.88,1.76,2.80,2.06,97,6.00,1.59,19,5
+253,die Ohren spitzen,to sharpen the ears,to listen carefully; to be very attentive,U,0.81,0.95,2.97,1.70,5.14,1.60,4.13,2.23,4.58,1.78,4.65,1.94,96,5.71,1.90,15,3
+254,etwas auf der Pfanne haben,to have something on the pan,to be able to perform something special; to have great skills; to have something secretly planned,A,1.40,1.08,3.29,1.70,3.60,1.73,2.58,2.20,4.93,1.92,2.43,2.03,78,6.66,0.97,22,5
+255,zäh wie Leder sein,to be as tough as leather,"to be able to endure a lot - emotionally, physically and/or mentally",U,0.90,1.25,3.84,1.83,3.90,1.80,5.91,1.63,3.81,1.72,4.00,2.32,62,6.11,1.52,15,4
+256,Trübsal blasen,to blow misery,"to be sad, disappointed or miserable",U,-1.26,0.73,3.65,1.74,5.00,1.83,3.74,2.27,5.10,1.68,2.93,2.27,97,5.79,1.77,13,2
+257,außer sich sein,to be outside oneself,"to be enraged, angry, furious; to be very upset by a situation",U,-1.42,1.09,4.84,1.68,5.73,1.39,3.55,2.28,4.59,1.66,2.97,2.11,96,5.21,2.13,13,3
+258,etwas durch die Blume sagen,to say something through the flower,to carefully critique someone in a pleasant way; to tell someone the truth carefully; to indirectly tell the truth,U,0.45,0.93,3.27,1.82,4.33,1.71,2.87,2.11,4.66,1.52,3.35,2.03,100,6.61,0.80,23,5
+259,gefeuert werden,to get fired,to lose one's job,U,-2.26,0.89,4.77,1.67,5.62,1.88,3.26,2.44,4.75,1.74,2.90,2.17,96,5.69,2.09,14,2
+260,das Weite suchen,to search for vastness/largeness,to leave from somewhere unpleasant,U,-0.74,0.96,3.42,2.14,5.03,1.90,4.63,2.09,3.97,1.60,3.29,2.18,100,6.32,1.08,14,3
+261,für lau arbeiten,to work lukewarmy,to work for free; to work without or extremely little payment,U,-1.32,1.05,2.84,1.81,4.86,1.92,2.94,2.31,4.47,1.68,2.29,1.94,87,6.37,1.56,14,3
+262,etwas in Worte kleiden,to dress something in words,to express something figuratively; to describe something in words,U,0.32,0.91,2.31,1.37,3.32,1.83,4.28,2.22,4.53,1.52,3.17,1.98,92,6.00,1.66,19,4
+263,total blank sein,to be totally blank/bare,to have no money at all ,U,-2.23,0.92,3.97,2.01,5.10,1.92,3.06,2.42,4.38,1.83,2.00,1.71,100,5.73,1.76,14,3
+264,vor Neid platzen,to burst of envy,to be extremely envious of someone,U,-2.03,0.95,4.94,1.57,5.37,1.56,5.22,1.93,4.97,1.77,3.40,2.08,100,5.48,2.02,14,3
+265,vor Wut schäumen,to foam of rage,to be very furious,U,-2.06,0.89,5.37,1.73,5.24,1.66,4.87,2.00,5.13,1.71,3.90,2.11,100,4.68,2.37,14,3
+266,Bauklötze staunen,to marvel toy blocks,to be extremely amazed; to be very surprised,U,0.57,1.14,3.87,1.98,4.27,1.96,3.13,2.42,5.77,1.57,2.55,1.93,93,5.74,1.56,16,2
+267,die Fliege machen,to make the fly,to leave (not necessarily in a negative sense),U,-0.58,0.81,3.07,1.66,5.03,1.66,2.74,2.16,5.32,1.83,2.61,1.80,100,5.97,1.71,15,3
+268,einen Knall haben,to have a crack,to be crazy,U,-1.61,0.88,4.13,1.84,5.59,1.64,2.97,2.37,4.81,1.73,2.14,1.87,100,5.43,1.72,15,3
+269,im Geld schwimmen,to swim in money,to have a lot of money,U,1.61,1.38,3.20,1.92,4.93,1.69,5.72,1.46,4.65,1.54,4.00,2.33,100,6.23,1.11,15,3
+270,nach Geld stinken,to stink of money,to be extremely rich,U,-0.77,1.92,3.65,2.03,4.39,2.30,4.35,2.21,5.03,1.53,3.77,2.34,89,5.69,2.04,15,3
+271,sein Wort brechen,to break one's word,to break one's promise; to be unable to hold one's promise,U,-2.10,0.87,4.06,1.81,5.07,1.68,4.23,2.16,4.22,1.68,2.76,2.28,96,6.39,1.31,15,3
+272,das Wort ergreifen,to seize the word,to intervene by saying one's own opinion; to seize the opportunity to say something ,U,0.81,0.79,2.77,1.76,5.66,1.49,5.17,1.95,4.16,1.67,4.13,2.55,97,6.25,1.19,16,3
+273,den Kopf verlieren,to lose one's head,"to get nervous, panic and react in an imprudent way",U,-1.74,0.77,4.23,1.82,4.70,1.86,4.29,2.00,4.90,1.68,3.23,2.34,73,6.21,1.37,16,3
+274,durchgeknallt sein,to be banged through,to be totally crazy,U,-1.23,1.09,4.37,1.69,5.87,1.50,3.09,2.19,4.66,1.82,2.23,1.83,100,5.11,2.04,17,2
+275,eine ehrliche Haut sein,to be an honest skin,to be a very honest person,U,2.03,0.87,3.26,1.83,4.63,1.77,4.38,2.06,4.52,1.98,2.28,1.77,96,6.80,0.41,20,4
+276,Flöhe husten hören,to hear fleas cough,one experiences things that do not necessarily exist; to hear well; to be the first person informed about news; to be cautious/sensible/fragile; to ponder over problems before they exist,U,-0.58,0.95,2.74,1.67,3.13,1.62,4.13,2.14,5.33,1.81,4.10,2.34,56,6.76,0.51,16,3
+277,jemanden aufziehen,to wind someone up,to tease someone,U,-0.87,0.82,3.40,1.69,5.43,1.64,2.94,2.08,5.16,1.83,2.45,1.84,100,6.35,1.11,17,2
+278,jemanden versetzen,to displace someone,not to show up on an agreed meeting/date,U,-1.35,0.88,3.68,2.04,5.62,1.45,3.25,2.21,3.78,1.83,2.90,2.02,100,5.36,1.78,17,2
+279,seiner Zeit voraus sein,to be ahead of one's time,to be more mature/advanced than people of one's own time; not to be acknowledged by one's own society,U,1.68,0.91,2.83,1.88,5.03,1.81,4.84,1.92,3.81,1.53,2.43,1.94,89,6.37,0.96,20,4
+280,sich den Tod holen,to catch death,to do something imprudent that could lead to an illness,U,-2.34,0.79,4.81,1.64,5.20,1.81,5.10,1.75,4.72,1.55,2.57,1.96,100,6.07,1.41,15,4
+281,aus der Haut fahren,to drive out of one's skin,to become furious and aggressive,U,-1.81,0.70,5.23,1.48,5.21,1.50,3.88,2.20,5.47,1.61,3.03,2.01,97,5.72,1.81,16,4
+282,den Laden schmeißen,to throw the shop,to manage a place (work or home) really well,U,1.48,0.81,3.55,1.93,5.14,1.51,2.97,2.34,4.97,1.62,2.59,1.84,96,6.13,1.36,17,3
+283,die Fresse polieren,to polish someone's mouth,to beat someone up,U,-2.58,0.62,5.39,1.80,5.50,1.59,3.50,2.08,4.84,1.37,4.96,2.03,100,4.00,2.47,17,3
+284,die Wände hochgehen,to walk up walls,to become really angry,U,-1.55,0.93,5.29,1.66,5.43,1.50,3.25,1.88,4.75,1.72,3.58,2.23,97,5.50,2.01,17,3
+285,ein Geizkragen sein,to be a tightward,to be very stingy; not to be very generous,U,-2.00,0.82,3.71,1.83,5.03,1.85,4.53,2.24,4.16,1.89,2.39,1.82,97,6.03,1.36,17,3
+286,in aller Munde sein,to be in everyone's mouth,to be talked about by everyone; an issue that everyone talks about,U,0.68,1.11,3.52,1.90,5.07,1.73,4.87,1.73,4.16,1.80,3.55,2.38,96,6.75,0.44,16,4
+287,lange Finger machen,to make long fingers,to steal,U,-1.63,0.85,3.34,1.76,4.32,1.91,3.20,2.30,5.06,1.54,3.07,1.96,100,6.38,1.27,17,3
+288,nach Verrat riechen,to smell of treason,something is considered treason; to be considered treason,U,-2.13,0.85,4.06,1.53,3.89,1.75,4.71,2.00,4.29,1.72,4.16,2.34,76,6.07,1.36,17,3
+289,seine Worte abwägen,to weigh one's words,to think about something carefully before speaking,U,0.63,0.81,2.68,1.40,4.67,1.84,5.10,1.88,3.16,1.80,2.94,2.02,86,5.87,1.41,17,3
+290,sich schwarz ärgern,to blacken of anger,to get extremely angry,U,-2.00,0.77,5.42,1.50,4.90,1.95,3.77,2.28,4.84,1.87,3.11,2.01,100,6.30,1.56,17,3
+291,Stroh im Kopf haben,to have straw in the head,to be a stupid/dull person,U,-2.03,0.75,2.94,1.57,4.45,1.88,4.78,2.09,4.66,1.66,2.71,1.92,100,6.15,1.41,16,4
+292,vor Freude strahlen,to beam of joy,to be extremely happy; to lighten up because of a positive occurance,U,2.67,0.48,5.00,1.69,5.83,1.56,6.16,1.30,3.50,1.55,4.37,2.39,100,5.64,1.81,17,3
+293,wie ein Loch saufen,to drink like a hole,to drink an excessive amount,U,-2.32,0.83,3.77,1.81,4.67,2.06,4.68,2.24,4.47,1.78,3.57,2.28,100,5.21,2.27,16,4
+294,bei jemandem anecken,to corner at someone,to attract negative attention; to stand out negatively; to offend/scandalise someone,U,-1.16,0.58,3.83,1.56,4.45,1.96,3.80,2.11,4.53,1.76,3.39,2.30,97,6.59,0.73,18,3
+295,die Nerven verlieren,to lose one's nerves,to lose one's head/nerves; to be very nervous,U,-1.88,0.79,4.71,1.64,5.60,1.52,4.55,1.93,3.81,1.67,3.10,2.24,97,5.15,2.22,18,3
+296,die Zeit totschlagen,to kill time,to do something so that time goes by faster,U,-0.68,1.17,3.03,1.99,5.90,1.59,4.23,2.19,5.19,1.75,2.48,2.01,90,6.59,0.87,18,3
+297,ein Erbsenhirn haben,to have a pea brain,to be stupid,U,-2.23,0.72,3.81,1.94,3.64,2.04,4.90,1.93,4.42,1.95,2.97,2.30,100,6.36,1.25,18,3
+298,eine Augenweide sein,to be an eye meadow,to be very beautiful ,U,2.13,1.20,3.70,2.10,5.31,1.58,4.22,2.04,4.41,1.85,3.25,2.07,100,6.69,0.71,18,3
+299,Geld ohne Ende haben,to have money without end,to have a lot of money,U,1.77,1.31,3.19,1.85,4.69,1.87,6.06,1.77,3.42,1.75,2.71,2.27,96,6.69,0.54,17,4
+300,sich ein Herz fassen,to seize one's heart,to overcome one's fear and be brave; to decide to finally do something,U,1.34,0.90,4.29,1.77,5.33,1.60,3.60,2.09,4.84,1.78,2.93,2.26,96,6.54,0.96,17,4
+301,tausend Tode sterben,to die thousand deaths,"to have extreme fear; to be very scared (mostly for someone else; e.g., when mothers worries about their children); if something very embarrassing happened",U,-2.39,0.95,5.68,1.81,4.68,2.04,5.00,1.82,5.16,1.83,2.00,1.41,69,6.29,1.19,18,3
+302,Überstunden schieben,to push overtime,to work overtime,U,-1.26,1.00,2.77,1.76,5.25,1.80,4.00,2.07,3.75,1.46,3.03,2.15,100,5.34,2.06,19,2
+303,von der Stütze leben,to live from support,to get subsidies to survive,U,-1.81,0.90,3.50,1.94,4.59,1.96,4.00,2.24,4.31,1.65,2.45,1.62,96,5.34,1.95,17,4
+304,vor Faulheit stinken,to stink of slothfulness,to be very lazy,U,-2.26,0.82,4.29,1.79,3.64,2.06,4.66,2.12,4.63,1.67,4.10,2.28,100,6.38,1.18,18,3
+305,auf den Punkt  kommen,to come to the point,to finally reach the actual point one was trying to make,U,0.97,0.95,3.03,1.89,5.53,1.78,3.50,2.33,4.72,1.84,2.21,1.59,88,6.71,0.81,17,5
+306,ein Ass in etwas sein,to be an ace in something,to be extremely good/talented in something,U,2.29,0.86,3.68,1.87,4.93,1.73,4.69,2.12,5.09,1.77,2.73,2.00,97,6.28,1.44,17,5
+307,ein Grünschnabel sein,to be a green pecker,to be inexperienced and a beginner in something,U,-1.00,0.77,2.97,1.75,4.04,2.05,2.34,1.96,5.61,1.58,2.17,1.72,97,5.57,1.79,19,3
+308,ein Hundeleben führen,to lead a dog's life,to lead a very miserable life,U,-2.00,0.87,4.00,2.00,4.07,1.76,3.72,2.02,4.88,1.48,2.29,1.44,79,6.63,0.69,19,3
+309,ein Jammerlappen sein,to be a moaning cloth,to moan about everything,U,-1.97,0.71,3.50,1.76,5.03,1.85,4.23,2.35,4.66,1.64,2.29,1.90,86,6.34,1.17,19,3
+310,ein Nervenbündel sein,to be a nerve bundle,to be extremely nervous/anxious,U,-1.71,0.94,3.90,1.56,4.59,1.86,4.10,2.48,4.00,1.75,3.10,2.31,97,5.80,1.65,19,3
+311,ein Stubenhocker sein,to be a living room roucher,to be a couch potato/to be always at home,U,-1.16,0.73,2.87,1.69,5.55,1.92,5.50,1.92,3.68,1.99,3.58,2.35,93,6.21,1.18,19,3
+312,Feuer und Flamme sein,to be fire and flame,to be very excited about something,U,2.03,0.81,5.07,1.36,5.24,1.96,3.55,2.23,5.13,1.79,2.97,2.14,100,6.07,1.51,18,4
+313,fit wie ein Turnschuh sein,to be fit like a gym shoe,to be very athletic and work out a lot,U,2.29,0.94,3.71,1.87,5.80,1.13,4.77,1.96,4.69,1.91,3.23,1.82,100,6.58,0.89,22,5
+315,jemandes Herz erobern,to conquer someone's heart,to chase someone and fall make him/her fall in love,U,2.03,0.91,5.10,1.85,5.30,1.64,5.38,1.60,4.75,1.90,2.47,2.05,100,6.13,1.36,19,3
+316,Muffensausen bekommen,to get jimjams,to get scared of something,U,-1.41,0.76,4.19,1.66,4.50,2.08,2.44,2.15,5.72,1.67,2.13,1.61,100,6.52,1.02,20,2
+317,es kostet nicht die Welt,it does not cost the world,something is not very expensive; something easily achievable ,U,1.00,1.03,2.77,1.93,5.28,1.41,4.97,1.87,4.19,1.69,2.00,1.51,100,6.37,0.79,20,5
+318,sein Herz erleichtern,to ease one's heart,to say/do something that one has always wanted to say/do,U,1.41,1.02,4.48,1.63,4.83,1.67,4.74,1.95,4.23,1.82,3.31,2.32,96,6.31,1.19,19,3
+319,sein Leben aushauchen,to exhale one's life,to die; to take one's last breath,U,-2.07,1.08,4.90,2.07,3.76,1.98,5.38,1.70,4.41,1.76,3.93,2.28,84,6.33,1.03,19,3
+320,über den Jordan gehen,to go across the Jordan river,to die,U,-1.63,1.30,4.14,1.88,3.97,1.80,2.13,1.93,5.57,1.85,2.90,1.90,81,6.37,1.25,18,4
+321,aus vollem Hals lachen,to laugh out of your full throat,to laugh heartily ,U,1.68,1.22,5.00,1.63,4.75,1.65,5.03,1.86,3.78,1.64,5.00,2.08,100,6.08,1.53,19,4
+322,bei jemandem abblitzen,to get rebuffed,to get rejected by someone you were romantically interested in,U,-1.52,0.72,4.13,1.57,5.00,1.83,3.87,2.22,5.31,1.55,2.60,1.71,93,6.42,0.99,20,3
+323,das Gras wachsen hören,to hear the grass grow,one interprets/believes things that do not necessarily exist; to hear well,U,-0.50,1.04,3.31,1.77,3.93,1.78,3.83,2.09,5.24,1.68,3.97,2.36,63,6.19,1.49,19,4
+325,ein Arschkriecher sein,to be an ass crawler,to be a kiss ass; to flatter someone excessively,U,-2.48,0.72,4.38,1.88,5.72,1.60,3.60,2.39,4.97,1.91,2.48,2.05,96,6.38,1.27,20,3
+326,eine Gänsehaut kriegen,to get a goose skin,to be scarred/afraid; to be cold; to be touched (when you hear something really great fantastic); to be horrified by something,U,-0.25,1.22,4.61,1.87,6.03,1.45,5.07,2.08,3.56,1.72,5.81,1.99,97,4.11,2.71,20,3
+327,etwas unverblümt sagen,to say something unflowery,say something very directly and bluntly; not to be very allusive ,U,0.19,1.09,3.87,2.08,4.73,1.87,3.40,2.47,4.22,1.56,3.26,2.00,97,6.38,1.01,20,3
+328,Gift und Galle spucken,to spit poison and bile ,get very angry and spiteful,U,-2.16,0.78,5.32,1.72,3.72,2.00,4.06,2.16,5.28,1.71,4.07,2.39,96,4.23,2.35,19,4
+329,ins Blaue hinein reden,to talk into the blue,to talk without knowing what one is actually wanting to say; to have no idea what one wants to say,U,-0.70,0.72,3.13,1.61,4.00,2.14,2.10,1.68,5.33,1.45,2.87,2.14,65,6.00,1.67,19,4
+330,mit Engelszungen reden,to speak with angels' tongues,to try to convince someone of an idea; to talk in a very captivating way; to try to convince someone of something; to talk very nicely to someone,U,0.67,1.27,3.30,1.88,3.69,1.91,4.00,2.14,4.74,1.79,3.32,2.06,70,6.55,0.74,20,3
+331,Nerven aus Stahl haben,to have nerves of steel,to be a steady person and resilient to stress,U,1.61,1.41,4.35,1.70,5.07,1.84,5.69,1.73,4.32,1.74,3.10,2.24,97,5.70,1.91,19,4
+332,nicht der Hellste sein,not to be the brightest,not to be the most intelligent person,U,-1.71,0.74,3.03,1.82,5.37,1.81,4.06,2.32,4.81,1.60,2.34,1.80,97,5.97,1.82,19,4
+333,über die Runden kommen,to come over the rounds,to survive with little money; just about make it with the money one has,U,0.32,1.42,2.81,1.54,5.69,1.61,3.42,2.31,4.83,1.64,1.75,0.97,96,6.27,1.26,19,4
+334,voll sein wie ein Loch,to be full like a hole,to be completely drunk,U,-1.94,1.03,3.94,1.98,3.67,1.92,2.93,2.10,4.46,1.55,2.80,2.23,86,6.48,0.96,18,5
+335,wie ein Grab schweigen,to be silent like a grave,to keep a secret,U,0.19,1.01,3.71,1.77,5.23,1.85,5.91,1.51,4.41,1.95,3.79,2.50,100,6.04,1.67,19,4
+336,zwei linke Hände haben,to have two left hands,to be clumsy,U,-1.55,0.68,3.23,1.86,5.17,1.89,4.90,1.97,4.38,1.76,4.10,2.44,93,6.30,1.32,19,4
+337,am Ende der Welt wohnen,to live at the end of the world,to live in a place that is difficult to access; to live far away from the city,U,-0.90,0.83,3.26,1.86,5.03,1.76,5.43,1.85,4.88,1.88,3.32,2.27,97,6.38,0.94,19,5
+338,aus allen Wolken fallen,to fall out of all clouds,to be utterly surprised,U,-1.35,0.95,4.87,1.72,5.47,1.61,3.06,2.17,5.22,1.60,2.42,1.73,93,6.50,0.79,20,4
+339,Ebbe in der Kasse haben,to have low tide in the till,to have little money left,U,-1.69,1.12,3.58,1.98,4.11,1.77,5.61,1.38,4.68,1.64,2.66,1.76,100,5.70,2.14,19,5
+340,eine halbe Portion sein,to be half a portion,to be a skinny/weak person,U,-1.03,1.11,2.81,1.72,4.77,1.76,4.71,1.74,4.38,1.72,2.82,2.09,88,6.29,1.19,20,4
+341,Köpfe rollen lassen,to let heads roll,to punish people; to dismiss people,U,-2.29,0.90,5.06,1.82,4.07,1.93,4.03,2.06,5.16,1.80,2.65,1.91,73,6.23,1.19,17,3
+342,in Saus und Braus leben,to live in speed and boom,to live it up; to enjoy life to the fullest (often implies spending a lot of money to do so),U,1.00,1.65,4.16,1.83,5.13,1.68,3.20,2.25,4.69,1.71,2.94,1.91,87,4.24,2.63,19,5
+343,jemanden mundtot machen,to make someone mouth-dead,to silence someone; to stop someone from revealing information,U,-1.84,0.90,4.60,1.83,4.52,2.06,4.94,1.78,4.31,1.55,3.58,2.25,78,5.56,1.99,21,3
+344,jemanden zur Sau machen,to make someone to a pig,to yell at someone; to make someone feel bad about what they have done; to tell someone off,U,-2.00,0.73,4.94,1.53,4.93,1.93,2.97,2.18,5.50,1.68,3.06,2.00,93,5.97,1.82,20,4
+345,nur Stroh im Kopf haben,to have hay in the head,to be stupid,U,-2.06,0.81,3.23,1.76,4.28,1.98,5.00,2.18,4.69,1.73,3.00,2.13,97,6.60,0.93,19,5
+346,sich zum Teufel scheren,to go to the devil,to leave; to clear off,U,-2.23,0.80,4.65,1.87,4.87,1.81,3.59,2.39,5.19,1.60,1.86,1.36,93,6.55,1.15,20,4
+347,am Arsch der Welt wohnen,to live at the ass of the world,to live in a place that is difficult to access; to live far away from the city,U,-1.32,1.30,3.87,2.03,5.77,1.57,4.88,2.04,5.29,1.74,2.59,1.80,100,6.30,1.06,20,5
+348,den Flattermann bekommen,to get the flatterman,to get very nervous/excited; to get stage fright,U,-1.34,0.81,3.87,1.94,3.97,2.31,2.53,2.06,5.00,1.76,2.83,1.98,92,6.52,1.18,22,3
+349,den Teufel im Leib haben,to have the devil in the body,to be a bad person; to do bad things,U,-2.00,0.80,4.90,1.76,2.67,1.84,4.71,1.79,5.31,1.73,2.37,2.01,55,6.66,1.08,20,5
+350,die Seele baumeln lassen,to let the soul dangle,to enjoy life; to be relaxed and have a good time,U,1.78,0.87,3.71,2.13,5.23,1.74,4.06,2.19,5.03,1.73,3.00,2.13,96,6.71,0.69,21,4
+351,die Sprache wiederfinden,to find your language again,to regain your speech; be able to speak again,U,0.73,1.01,3.03,1.73,4.03,1.92,4.81,2.06,3.81,1.57,3.68,2.21,87,6.58,0.89,22,3
+352,ein Herz aus Stein haben,to have a heart of stone,to be a cold person; to show little or no empathy,U,-2.31,0.74,4.32,1.85,4.07,1.87,5.39,1.75,4.34,1.72,2.48,1.96,94,5.73,2.18,20,5
+353,ein loses Mundwerk haben,to have a loose mouth,to speak a lot in an unkind and rudely manner,U,-1.47,0.76,3.61,1.58,4.63,1.63,4.53,2.21,4.13,1.52,3.10,2.09,70,6.58,0.76,21,4
+354,eine scharfe Zunge haben,to have a sharp tongue,to respond quickly and often sarcastically or in a funny manner,U,-0.69,1.15,3.81,1.74,3.54,1.82,3.87,2.30,5.22,1.45,3.14,2.17,90,5.77,1.81,21,4
+355,es schwer ums Herz haben,to have it heavy around the heart,to have a difficult time with love or a relationship; to have heart ache and suffer,U,-1.40,0.72,4.26,1.67,3.86,1.81,4.53,2.14,4.34,1.77,2.97,2.16,93,5.25,2.19,20,5
+356,keine große Leuchte sein,not to be a great light,to be stupid; not to be very fast at understanding complicated matters,U,-1.66,0.79,3.30,1.76,4.70,1.78,4.03,2.24,4.63,1.83,2.37,1.43,97,6.43,1.22,21,4
+357,sich den Arsch aufreißen,to rip open one's ass,to put a lot of effort into something,U,-0.90,1.37,5.10,1.60,5.69,1.85,3.55,2.42,5.16,1.88,3.21,2.08,96,6.14,1.21,21,4
+358,sich die Augen ausweinen,to cry one's eyes out,to cry a lot,U,-2.00,1.11,5.00,1.59,4.33,1.75,5.91,1.69,3.84,1.65,5.13,2.19,94,6.28,1.22,21,4
+359,vom Tode gezeichnet sein,to be painted by death,to be terminally ill; to be close to death,U,-2.52,0.63,5.32,1.76,3.56,1.97,5.00,1.98,4.45,1.86,3.10,2.41,81,6.89,0.32,21,4
+360,auf dem Zahnfleisch gehen,to walk on the teethridge,to be exhausted; to be tired; to be ruined (economically/healthwise) ,U,-1.87,0.81,4.84,1.86,4.14,1.99,2.84,2.35,5.84,1.53,3.00,2.24,72,6.59,1.01,22,4
+361,auf Wolke sieben schweben,to float on cloud seven,to be in love; to be happy; to be naive,U,2.48,0.93,5.26,1.59,5.24,1.83,3.26,2.11,5.34,1.82,2.84,2.19,97,6.33,1.33,22,4
+362,Blut und Wasser schwitzen,to sweat blood and water,to be very nervous; to be anxious; to be exhausted,U,-1.32,1.14,5.13,1.59,4.31,1.85,3.97,2.29,4.97,1.91,4.26,2.24,100,6.63,0.76,22,4
+363,ein langes Gesicht machen,to make a long face,to be surprised and disappointed by something,U,-1.16,0.52,3.13,1.54,5.14,1.96,4.07,2.10,3.91,1.67,3.71,2.12,96,5.68,1.73,22,4
+364,ein Prinzipienreiter sein,to be a principle rider,to hold on to principles,U,-1.10,0.82,3.13,1.65,3.85,1.94,3.93,1.87,4.26,1.75,2.37,1.81,97,6.12,1.75,23,3
+365,eine falsche Schlange sein,to be a fake snake,to be an opportunistic person; to deceive people,U,-2.48,0.68,4.71,1.85,4.62,1.82,4.16,2.07,4.84,1.75,2.26,1.79,100,5.10,2.12,23,4
+366,einen schwarzen Tag haben,to have a black day,to have an unlucky day,U,-1.94,0.73,4.42,1.71,4.45,2.10,4.45,2.10,4.63,1.52,2.45,1.91,92,5.89,1.58,22,4
+367,Haarspaltereien betreiben,to practice hair splitting,to pay exaggerated attention to detail,U,-1.32,0.79,3.65,1.78,3.97,2.14,3.94,1.87,4.91,1.53,2.97,1.92,93,6.03,1.71,24,2
+368,jemandem das Herz brechen,to break someone's heart,to break someone's heart; to disappoint someone,U,-2.16,0.93,5.52,1.52,5.79,1.21,5.22,1.74,5.19,1.76,3.23,2.29,100,6.26,1.32,22,4
+369,jemandem platzt der Kragen,someone's collar bursts,to get very angry and let steam off,U,-1.84,1.24,5.10,1.70,5.38,1.54,3.71,2.16,5.26,1.44,3.03,2.07,100,5.94,1.61,23,4
+370,jemanden zum Teufel jagen,to hunt someone to the devil,to send someone away; to get rid of someone,U,-1.84,1.39,5.23,1.48,4.70,1.82,4.90,1.90,5.09,1.78,2.86,1.94,74,6.64,0.62,22,4
+371,hinter dem Mond leben,to live behind the moon,not to know any news; to be inexperienced and unworldly,U,-1.42,1.06,3.74,1.86,5.07,1.87,4.19,1.99,5.28,1.75,2.48,1.71,90,6.21,1.42,18,4
+372,nur Haut und Knochen sein,to be skin and bones,to be very skinny; to be very thin,U,-2.28,0.77,3.71,2.05,5.03,1.75,5.81,1.77,3.34,1.62,4.68,2.24,97,6.52,1.18,21,5
+373,sein Herz an etwas hängen,to hang one's heart on something,to attach emotional value to something,U,0.83,1.02,4.55,1.86,4.50,1.90,4.66,1.60,4.38,1.79,2.90,2.12,96,5.85,1.67,21,5
+374,sein Herz sprechen lassen,to let one's heart speak,to speak honestly; say what one feels; to let one's feeling decide; to act upon one's feeling,U,1.35,1.11,4.65,1.66,4.03,1.79,4.91,1.84,4.69,1.62,3.16,2.40,63,6.21,1.53,22,4
+375,sich die Sporen verdienen,to earn the spurs,to prove one's abilities; to prove one's worth; to master a challenge successfully; to have to work hard to prove one's ability,U,0.52,1.33,2.79,1.42,3.46,1.88,2.90,1.84,4.82,1.49,2.57,2.10,70,6.39,1.17,22,4
+376,unsterblich verliebt sein,to be undyingly in love,to be very much in love,U,2.16,1.34,5.53,1.59,5.55,1.59,5.03,1.96,4.41,1.95,2.23,1.89,97,6.07,1.44,23,3
+377,zum Steinerweichen heulen,to stone-softeningly cry,to create compassion through crying,U,-1.52,1.25,4.59,1.84,3.18,2.04,5.41,1.52,4.20,1.75,4.00,2.15,100,6.50,0.92,23,3
+378,am Ende seiner Geduld sein,to be at the end of one's patience,to have no more patience,U,-1.71,0.78,4.68,1.78,5.41,1.78,5.81,1.83,3.23,1.87,2.50,2.00,81,6.03,1.84,22,5
+379,bis in die Puppen schlafen,to sleep into the dolls,to sleep very late into the day,U,0.48,1.23,2.93,1.76,5.17,1.83,2.42,2.26,5.74,1.61,3.16,2.11,97,6.28,1.37,22,5
+380,ein Schweinegeld verdienen,to earn a pig's money,to earn a lot of money,U,1.31,1.42,3.81,2.04,4.73,1.87,3.06,2.15,5.13,1.62,1.97,1.50,96,6.50,0.88,24,3
+381,eine ruhige Kugel schieben,to push a calm ball,to have an easy job; to work little; to live a lazy life,U,0.56,1.11,2.77,1.67,4.80,1.79,3.58,2.19,4.94,1.69,3.13,1.93,83,5.76,1.71,23,4
+382,eingeschlafene Beine haben,to have asleep legs,to feel numbness in the limbs,U,-0.97,0.76,2.21,1.45,5.39,1.52,3.97,2.39,3.84,2.28,4.86,2.42,71,6.25,1.53,24,3
+383,Haare auf den Zähnen haben,to have hair on your teeth,to be choleric; to be easily irritated; to be brusque,A,-1.64,0.95,4.17,1.83,4.07,1.86,2.37,2.19,5.53,1.83,2.36,2.00,58,6.70,1.12,22,5
+384,Er steht im Zenit seines Lebens,he stands at the zenith of his life,He is at the height of his life; someone who is successful and full of energy,U,1.55,1.18,3.13,1.73,2.86,1.72,4.65,2.06,4.31,1.45,2.55,2.05,89,6.38,1.12,26,6
+385,noch in den Sternen stehen,still standing in the stars,something that is unknown; something that cannot be predicted; something that is not yet clear,U,-0.03,1.02,2.90,1.60,4.24,2.01,3.58,1.93,5.00,1.51,2.42,1.80,89,4.43,2.48,22,5
+386,seine Zunge im Zaum halten,to hold one's tongue in the bridle,to be cautious of what one is saying,U,0.20,1.13,3.32,1.58,4.10,2.01,4.87,1.91,4.78,1.72,3.68,2.20,93,6.00,1.71,22,5
+387,sich jemanden schöntrinken,to drink someone beautiful,to drink alcohol in order to find someone else more attractive,U,-1.34,1.00,3.39,1.85,5.03,1.65,4.68,2.02,3.72,1.65,4.27,2.10,81,6.18,1.16,24,3
+388,vor Wut die Wand hochgehen,to walk up walls of anger,to be very angry,U,-2.16,0.73,5.52,1.23,4.64,1.79,4.94,1.98,4.81,1.69,3.85,2.23,100,5.88,2.09,22,5
+389,wie eine Bombe einschlagen,to hit like a bomb,news that no one expected; an unexpected event; somethign happened unexpected/suddenly,U,0.32,1.68,5.32,1.49,5.41,1.74,5.13,1.90,4.35,2.03,3.57,2.30,93,6.37,0.96,23,4
+390,bei jemandem Anklang finden,to find echo with someone,to find someone who has similar ideas,U,1.44,0.95,3.19,1.54,3.90,1.90,4.00,2.11,3.97,1.64,3.19,2.02,96,6.60,1.00,24,4
+391,das Gespräch in Gang halten,to hold the talk in the hallway,keep a conversation up and running; to continue a conversation effortlessly,U,0.66,0.79,2.30,1.53,5.00,1.82,4.71,2.08,3.68,1.54,3.10,2.29,86,6.21,1.29,23,5
+392,ein Wolf im Schafspelz sein,to be a wolf in a sheep coat,to pretend to be harmless,U,-1.63,1.03,4.00,1.79,4.00,1.89,4.90,1.99,4.81,2.04,2.63,2.24,92,6.00,1.26,23,5
+393,Nerven wie Drahtseile haben,to have nerves like a steel cable,to be a very steady and wholesome person; to deal extremely well with pressure and stress,U,1.55,1.29,4.23,1.67,5.48,1.40,5.66,1.75,4.25,1.68,3.50,2.22,97,4.36,2.33,24,4
+394,sich den Bauch vollschlagen,to bang the stomach full,to eat well and much,U,0.39,1.23,3.16,1.97,5.33,1.79,4.94,2.02,3.53,1.74,5.23,2.06,100,6.43,0.92,24,4
+395,sich etwas zu Herzen nehmen,to take something to heart,to be affected by something; to follow an advice,U,-0.58,1.09,4.55,1.69,5.90,1.27,4.06,2.14,4.72,1.67,2.80,2.09,94,5.21,2.16,23,5
+396,sich seinen Ärger verbeißen,to sink one's teeth into anger,to be angry but not express it; to avoid conflict,U,-1.00,1.13,3.93,1.70,3.46,1.82,4.16,2.13,4.14,1.69,3.79,2.28,88,6.10,1.40,24,4
+397,wie die Made im Speck leben,to live like the maggot in bacon,to live lavishly,U,0.81,1.90,3.90,2.01,5.21,1.68,5.59,1.78,4.77,1.78,3.90,2.23,83,6.29,1.07,22,6
+398,aus dem Nähkästchen plaudern,to talk out of the sewing box,to talk a lot; to gossip; to talk a lot about private things,U,-0.29,1.01,3.10,2.04,4.60,1.73,2.71,2.19,5.16,1.78,3.10,2.26,100,6.00,1.36,25,4
+399,bei jemandem verspielt haben,to have gambled away with someone,to have lost someone's respect,U,-1.77,0.67,4.55,1.65,4.73,1.68,3.58,2.25,4.68,1.60,2.42,1.80,100,6.07,1.36,25,4
+400,bis über beide Ohren grinsen,to grin over both ears,to grin like a Cheshire cat; to be extremely happy and smile a lot,U,2.21,0.77,4.52,1.79,5.18,1.79,5.97,1.31,4.07,1.84,4.71,2.34,100,5.35,1.99,24,5
+401,den Kopf in den Wolken haben,to have the head in the clouds,to lose contact with reality; to be a dreamer,U,-0.18,1.09,3.57,1.50,3.46,1.86,3.75,1.82,5.31,1.53,2.55,1.77,82,5.93,1.70,23,6
+402,jemandem auf den Fersen sein,to be at someone's heels,to follow someone closely (literally or metaphorically),U,-0.16,1.07,4.35,1.58,4.50,2.00,4.73,1.82,3.66,1.49,3.48,2.19,93,6.16,1.51,24,5
+403,jemandem zum Teufel schicken,to send someone to the devil,to stop caring about someone; to interrupt contact with someone; to send someone away; not wanting to have anything to do with someone,U,-1.77,1.20,4.61,1.71,4.79,1.84,5.06,1.98,4.84,1.74,2.77,1.98,94,6.54,1.26,25,4
+404,sich den Mund fusselig reden,to talk the mouth fuzzy,to talk a lot but not achieve anything with these words,U,-1.13,0.72,4.45,1.73,5.10,1.84,4.32,2.01,4.81,1.68,4.77,2.08,100,6.10,1.40,24,5
+405,auf einen Sprung hereinkommen,to come in for a jump,to visit someone for a short visit,U,0.50,0.90,2.84,1.70,5.14,1.69,3.65,2.35,4.35,1.64,4.13,2.11,97,4.84,2.34,26,4
+406,auf Kleinigkeiten herumreiten,to ride on bagatelles,to insist on small and unnecessary details,U,-1.35,0.75,3.37,1.79,4.57,1.76,4.31,2.04,5.09,1.61,3.00,1.97,100,6.31,1.14,27,3
+407,aus jemandem Kleinholz machen,to make someone into kindling,to beat someone up; to hit someone,U,-2.00,0.89,5.13,1.71,4.10,2.11,4.75,2.29,4.94,1.63,3.48,2.16,77,6.50,1.27,26,4
+408,das Herz auf der Zunge tragen,to carry the heart on the tongue,to talk without thinking beforehand; to say things easily and carelessly; to express feelings openly; to be open,U,0.50,1.33,4.10,1.68,3.79,1.88,4.00,2.02,5.47,1.74,3.00,2.18,100,6.37,1.30,24,6
+409,das Rad der Zeit zurückdrehen,to turn back the wheel of time,to try and go back in time; to miss the past; to be nostalgic; to make something undone; to take back what one has done,U,0.06,1.00,3.61,1.91,3.89,1.66,5.00,1.88,4.63,1.84,2.55,2.11,85,6.83,0.38,25,5
+410,dem Tod ins Angesicht blicken,to look into the death's face,to be close to death,U,-2.19,1.08,5.26,1.63,4.24,1.96,5.63,1.58,5.06,1.74,3.57,2.39,79,5.72,1.71,25,5
+411,eine Ausgeburt der Hölle sein,to be the spawn of hell,to be a terrible person,U,-2.68,0.54,5.87,1.07,3.76,1.99,5.03,1.77,5.06,2.00,2.16,1.81,93,5.84,1.95,25,5
+412,jemandem das Wort abschneiden,to cut someone's word,not to let people finish speaking; to interrupt someone,U,-1.42,0.72,3.61,1.65,4.69,1.79,5.00,2.05,4.25,1.61,3.84,2.41,100,6.42,1.15,26,4
+413,jemandem läuft die Galle über,someone's bile spills over,to release one's anger; to get very angry,U,-2.23,0.82,4.86,1.64,3.57,1.99,3.32,2.26,4.67,1.79,3.10,2.10,96,6.47,0.90,25,5
+414,Schmetterlinge im Bauch haben,to have butterflies in the belly,to be in love,U,2.47,0.78,5.58,1.52,5.83,1.49,3.55,2.11,5.63,1.90,3.39,2.20,100,4.73,2.29,26,4
+415,die Ehrlichkeit in Person sein,to be honesty in person,to be an honest person,U,2.26,0.96,3.61,1.58,4.40,1.90,6.00,1.55,3.78,1.81,2.61,2.32,100,5.92,1.89,26,5
+416,etwas nicht übers Herz bringen,to be unable to bring something over the heart,to be unable to do something because of pity,U,-0.23,1.18,4.55,1.67,5.59,1.68,3.84,2.07,5.06,1.83,2.81,2.07,93,5.88,1.88,26,5
+417,jemandem den Geldhahn zudrehen,to close someone's money tap,to stop funding someone; to stop giving someone money,U,-1.78,0.83,3.94,2.14,4.33,1.71,5.66,1.68,4.16,1.65,3.23,2.35,97,5.20,1.85,27,4
+418,jemandem sein Herz ausschütten,to spill one's heart to someone,to openly talk about one's problems with someone; to have an honest and confessing conversation,U,0.47,1.22,5.29,1.37,5.67,1.52,5.00,1.97,4.44,1.78,3.31,2.16,96,6.00,1.63,27,4
+419,jemandem wächst etwas ans Herz,someone grows something to his/her heart,to get slowly attached to something,U,1.48,1.03,4.19,1.64,5.53,1.55,4.34,2.01,4.97,1.79,2.84,2.10,100,5.88,1.88,26,5
+420,jemandes Argumente zerpflücken,to pick someone's arguments to pieces,to disagree with someone; to refute someone's arguments,U,-1.13,1.18,3.94,1.48,3.61,2.02,4.80,1.77,4.44,1.29,3.27,2.02,85,5.71,1.52,28,3
+421,mit gespaltener Zunge sprechen,to speak with a split tongue,"to say one thing, but actually mean something else; to be dishonest",U,-1.61,0.76,4.39,1.69,3.96,1.91,3.87,2.21,5.13,1.88,3.90,2.29,89,4.16,2.54,27,4
+422,von der Hand in den Mund leben,to live from the hand in the mouth,to survive on a day-to-day basis; to have little money,U,-1.57,1.30,3.97,1.78,4.63,1.77,4.50,2.29,4.53,1.88,3.47,2.34,79,5.94,1.65,24,7
+423,noch grün hinter den Ohren sein,to be green behind the ears,to be immature and unexperienced,U,-0.87,0.90,2.81,1.66,4.14,1.83,2.94,2.10,6.00,1.19,2.97,2.21,96,6.61,0.69,26,6
+424,seine Bedenken über Bord werfen,to throw one's concerns overboard,"to stop worrying, to abandon one's worries, to act spontaneously",U,0.75,0.92,3.29,1.72,3.79,2.04,5.03,1.94,4.31,1.77,3.29,2.21,82,6.04,1.15,27,5
+425,dem Tod ein Schnippchen schlagen,to strike death a fillip,"not to die, even though one was close to",U,1.58,1.36,4.58,1.48,3.38,1.78,3.65,2.39,4.71,1.53,1.84,1.46,96,6.29,1.38,28,5
+426,dem Tod von der Schippe springen,to jump off death's shovel,"not to die, even though one was close to",U,0.87,2.24,5.33,1.37,4.03,1.88,4.90,1.97,5.22,1.79,2.97,2.04,96,6.07,1.46,27,6
+427,der Stimme seines Herzens folgen,to follow the voice of your heart,to do what feels right,U,1.74,1.03,4.20,1.85,4.34,2.11,4.59,1.93,4.38,2.01,2.65,2.30,86,6.31,1.12,28,5
+428,jemandem Worte in den Mund legen,to put words into someone's mouth,to change someone's statement to one's own advantage; to express someone's opinion wrongly,U,-1.28,0.77,3.71,1.75,4.90,1.86,5.41,1.76,4.25,1.48,3.55,2.16,68,6.38,1.05,27,6
+429,von Luft und Liebe leben,to live of air and love,not to need materialistic goods to survive; to be naive (when being in love),U,0.29,1.44,4.03,1.83,5.17,1.65,4.71,2.21,4.78,1.83,2.67,2.02,68,5.21,1.99,20,5
+430,wie ein Honigkuchenpferd grinsen,to grin like a honey-cake-horse,to be extremely happy and grin a lot,U,1.53,1.19,4.84,1.55,4.10,1.94,3.00,1.97,5.13,1.68,3.67,2.32,100,6.21,1.34,29,4
+431,sich etwas aus den Fingern saugen,to suck something out of your fingers,to invent a story because one does not know the facts; to tell something that is not true,U,-1.10,0.91,3.45,1.75,5.07,1.91,3.28,2.26,5.28,1.67,3.47,2.16,94,5.67,1.75,28,6
+432,bis über beide Ohren verliebt sein,to be in love over both ears,to be crazily in love,U,2.42,0.92,5.35,1.66,5.72,1.41,4.29,2.21,4.94,1.65,2.77,1.80,100,6.69,0.71,29,6
+433,jedes Wort auf die Goldwaage legen,to place every word onto the gold-scale,to analyse every word that is being said; to overvalue what is being said,U,-1.22,0.79,3.97,2.11,4.97,1.81,4.77,1.89,4.94,1.68,2.74,1.88,86,6.46,0.95,29,6
+434,jemandem liegt etwas auf der Seele,something is lying on someone's soul,to have a secret/problem/issue that has been bothering someone,U,-0.91,1.03,4.35,1.50,5.03,1.67,4.10,2.02,4.63,1.66,3.16,1.98,93,6.78,0.51,29,6
+435,sich die Beine in den Bauch stehen,to stand one's legs into the belly,to stand for a long time,U,-1.17,0.70,3.39,1.94,4.57,1.89,4.22,2.15,4.66,1.62,4.45,2.23,93,6.39,1.26,28,7
+436,es faustdick hinter den Ohren haben,to have it fist-thick behind the ears,to be cheeky and play tricks,U,-0.39,1.41,3.80,1.77,5.20,1.71,2.88,2.18,5.25,1.63,2.33,1.83,88,6.65,0.88,30,6
+437,jemandem das Wort im Munde umdrehen,to turn someone's word in their mouth,to change the meaning of what other people have said,U,-1.42,1.18,4.03,1.78,5.41,1.48,4.69,2.10,4.91,1.78,3.03,2.32,97,6.15,1.41,30,6
+438,ordentlich einen in der Krone haben,to have something thoroughly in the crown,to be drunk,U,-1.48,0.78,3.87,1.96,4.48,1.99,2.52,2.25,5.35,1.50,3.10,2.17,100,5.44,1.98,30,6
+439,sich die Lunge aus dem Hals schreien,to scream the lunge out of the throat,to scream excessively,U,-1.47,1.05,5.35,1.36,4.45,1.97,5.57,1.68,4.13,1.58,5.13,2.15,92,6.40,1.19,30,7
+440,sich die Nacht um die Ohren schlagen,to slap the night around one's ears,"to stay up the whole night to do something (e.g., to work or to party); to be unable to sleep because of worries",U,-0.61,0.84,3.74,1.73,5.38,1.80,3.37,2.33,4.97,1.62,3.33,1.92,100,6.00,1.71,30,7
+441,Gras über die Sache wachsen lassen,to let grass grow over something,to forget about a bad incident that happened,U,0.25,1.08,3.23,1.87,4.83,1.76,4.35,2.04,4.97,1.66,2.94,2.14,100,5.82,1.76,29,6
+442,jemandem das Wort aus dem Mund nehmen,to take the word out of someone's mouth,to express a thought that someone else wanted to say; to say something before the other person could say the same,U,-0.53,1.14,3.65,1.76,4.44,1.89,4.81,1.97,4.90,1.47,3.17,2.25,88,6.77,0.50,31,7
+443,bis über die Ohren in Schulden stecken,to be in debts over both ears,to be heavily in debt,U,-2.35,0.71,4.42,1.78,4.62,1.97,5.68,1.76,4.90,1.83,3.10,2.10,100,5.88,1.68,32,7
+444,eine Stange Wasser in die Ecke stellen,to put a pole of water into the corner,to urinate,U,-0.06,1.20,2.80,1.96,3.64,2.27,2.39,2.13,5.12,1.88,2.43,1.53,73,5.89,1.64,32,7
+445,jemandem die Seele aus dem Leib prügeln,to beat the soul out of someone's body,to beat someone excessively,U,-2.81,0.40,6.03,1.25,4.17,1.89,5.61,1.41,4.63,1.56,4.29,2.15,93,6.53,1.22,33,7
+446,jemandem hängt der Himmel voller Geigen,someone's sky hangs full of violins,someone is happy,U,1.26,1.52,4.18,1.91,2.96,2.16,2.82,1.91,5.57,1.62,2.61,1.95,68,6.38,0.85,34,6
+447,die Weisheit mit Löffeln gefressen haben,to have wisdom eaten with a spoon,someone who pretends to know everything,U,-0.55,1.50,3.68,1.81,4.55,2.01,4.03,1.99,5.41,1.48,3.16,2.24,79,5.75,1.57,35,6
+448,für jemanden die Sterne vom Himmel holen,to fetch the stars from the sky for someone,to do anything for someone; to spoil someone; to do the impossible for someone,U,2.13,0.90,5.03,1.58,5.03,1.72,4.84,1.77,5.38,1.81,2.97,2.11,97,5.96,1.48,34,7
+449,nicht jedes Wort auf die Goldwaage legen,not to put every word onto the golden scales,not to take someone's words so seriously,U,0.58,1.18,3.13,1.86,4.97,1.74,4.57,1.96,4.91,1.53,2.27,1.70,89,6.39,1.31,34,7
+450,nur noch ein Schatten seiner selbst sein,to be only a shadow of oneself,to appear in an unhealthy condition; to be very thin,U,-2.31,0.74,4.53,1.66,4.27,1.87,4.83,2.10,4.91,1.61,2.93,2.08,96,6.76,0.51,34,7
+451,einem ist die Laus über die Leber gelaufen,a louse ran over someone's liver,someone is in a bad mood,U,-1.42,0.72,3.87,1.78,4.76,1.98,2.66,2.21,5.75,1.52,2.84,2.03,87,6.67,0.55,35,8
+452,der Mutter wie aus dem Gesicht geschnitten sein,to be cut out of the mother's face,to look exactly like one's mother,U,0.77,1.09,2.58,1.34,4.59,2.06,5.84,1.37,4.42,1.82,4.17,2.57,100,6.63,0.72,40,8
+453,sein Licht nicht unter den Scheffel stellen,to put one's light not under the bushel,not to conceil one's talents; to show openly what one can do,U,1.32,1.03,3.14,1.41,4.44,1.67,3.13,2.21,5.34,1.40,2.74,2.03,93,5.46,1.88,37,7
+454,ein Gesicht machen wie drei Tage Regenwetter,to make a face like three rainy days,to appear in a bad mood; to look unhappy and dissatisfied,U,-1.55,0.81,3.65,1.82,4.47,1.70,5.81,1.60,4.56,1.83,3.61,2.30,100,6.38,1.47,38,7
+455,die Weisheit nicht mit Löffeln gegessen haben,not to have eaten wisdom with a spoon,someone who does not know a lot; to be stupid,U,-1.03,0.84,3.32,1.74,4.67,1.58,4.56,2.08,5.41,1.60,2.83,2.14,81,5.78,1.74,39,7
+456,das Herz ist vor Schreck in die Hose gerutscht,"out of fright, the heart slipped into the pants ",to get extremely scared,U,-1.26,0.93,5.17,1.68,4.72,2.07,4.19,2.15,5.32,1.62,3.33,2.37,100,6.36,1.06,38,9
+457,mit einem goldenen Löffel im Mund geboren sein,to be born with a golden spoon in the mouth,to be born in a privileged position,U,0.10,1.63,2.97,1.86,3.74,1.97,4.03,2.27,5.77,1.38,2.76,2.03,95,5.62,1.74,39,8
+458,sich wie ein Elefant im Porzellanladen benehmen,to behave like an elephant in the procellan shop,to behave clumsily; to behave cautionlessly,U,-1.61,0.67,4.35,1.89,4.97,1.86,5.30,2.00,4.52,1.95,3.43,2.27,97,5.87,1.52,41,7
+459,ein Engel sein,to be an angel,to be well-behaved; if someone has done something nice for you (such as help an old lady carry her shopping bags),U,2.19,0.91,3.68,1.85,5.30,1.62,5.90,1.68,4.47,1.87,2.19,1.83,93,6.13,1.41,12,3
+460,Kreide fressen,to eat chalk,to exhibit a mild and harmless way of speaking; to pretend to be peaceful; to flatter someone,A,-1.63,0.63,4.04,1.95,3.48,2.18,2.30,2.01,5.83,1.39,4.18,2.44,54,5.58,1.80,13,2
+461,das Eis brechen,to break the ice,to lose tension in a situation or between people; to make an encounter more relaxing and enjoyable,A,1.42,0.62,3.67,1.86,4.76,1.86,3.26,2.10,5.25,1.55,3.45,2.10,88,6.76,0.51,13,3
+462,Süßholz raspeln,to rasp licorice,to flirt with someone; to flatter someone; to compliment someone,A,-0.33,1.21,3.80,1.75,4.52,2.08,2.40,2.16,5.70,1.70,3.13,2.10,100,5.81,1.30,14,2
+463,aufgekratzt sein,to be up-scratched,to be excited; to have a lot of energy; to be agitated; to be very active (may be positive or negative),A,-0.65,1.05,3.52,1.73,5.38,1.61,3.16,2.10,5.45,1.63,3.60,2.06,83,6.25,0.98,15,2
+464,einen Kater haben,to have a tomcat,to be hung-over,A,-1.52,0.85,2.77,1.65,5.73,1.80,2.13,2.08,6.09,1.49,3.50,2.33,96,6.59,0.64,15,3
+465,eine Meise haben,to have a tit,to be a little bit crazy,A,-1.45,0.89,3.77,1.91,4.97,1.94,2.00,1.88,5.53,1.76,2.74,2.03,97,6.34,1.04,14,3
+466,ans Bett gefesselt,to be chained to the bed,to be ill in bed,A,-1.84,1.04,4.00,1.46,4.62,1.90,5.61,1.67,4.42,1.73,4.71,2.36,89,6.43,0.97,16,3
+467,den Löffel abgeben,to hand-over the spoon,to die,A,-2.34,0.94,4.52,2.03,5.10,1.79,2.25,2.06,5.16,2.03,3.55,2.57,100,5.54,1.86,16,3
+468,dicke Freunde sein,to be fat friends,to be close friends,A,2.33,0.80,4.45,1.82,5.57,1.59,3.97,2.50,4.22,2.01,2.71,1.79,100,6.35,1.31,16,3
+469,die Füße hochlegen,to elevate the feet,not to do anything; to relax,A,0.65,1.38,2.71,1.75,5.77,1.28,5.56,1.56,3.78,2.03,5.21,2.14,100,6.25,1.08,16,3
+470,ein Veilchen haben,to have a violet,to have a black eye,A,-1.47,0.90,3.28,1.94,4.57,1.77,3.03,2.27,5.44,1.81,4.45,2.38,97,6.36,1.37,16,3
+471,einen Zahn zulegen,to put on a tooth,"to speed up something (action, work, means of transportation)",A,0.52,1.03,3.13,1.81,5.31,1.58,2.39,2.26,5.63,1.79,3.06,2.13,97,6.34,0.86,16,3
+472,die Zelte abbrechen,to break down all tents,to leave from somewhere permanently; to move somewhere else,A,-0.38,1.04,3.45,1.95,4.47,1.81,4.72,1.85,4.34,1.68,3.29,1.99,90,6.11,1.50,17,3
+473,dran glauben müssen,to have to believe in something,to be victim; to be chosen for an unpleasent task; having to die; to destroy something,A,-1.91,1.25,4.13,1.84,4.93,1.76,2.94,2.34,5.09,1.65,2.52,2.14,78,6.40,0.93,17,3
+474,ein alter Hase sein,to be an old hare/rabbit,to be experienced in something; to know how things work,U,1.26,1.09,2.73,1.68,5.00,1.80,3.13,2.20,5.50,1.63,2.77,2.12,100,5.56,1.76,16,4
+475,ein dumme Gans sein,to be a stupid goose,to be/act stupidly (mainly used for women and girls),U,-1.88,0.91,3.10,1.71,4.13,2.11,4.68,1.92,4.34,1.66,2.39,1.71,93,5.86,1.78,16,4
+476,in die Pfanne hauen,to throw into the pan,to trick/deceive someone and to succeed,A,-1.48,1.15,4.30,1.44,4.59,2.03,2.60,2.13,5.16,1.75,3.47,2.26,66,6.70,0.67,16,4
+477,sich aufs Ohr legen,to lie oneself onto the ear,to go to sleep,A,0.74,0.93,2.87,1.98,5.50,1.57,4.68,2.02,3.88,1.79,5.10,2.28,100,6.77,0.50,16,4
+478,sich ins Zeug legen,to put oneself into the stuff,to put a lot of effort into something,A,1.65,0.88,3.35,1.99,5.69,1.56,2.72,2.25,4.53,1.87,2.90,2.01,94,6.62,0.86,16,4
+479,zur Flasche greifen,to grab for the bottle,to drink alcohol,A,-2.03,0.80,3.42,1.96,4.56,1.93,4.50,2.09,3.45,1.63,5.33,2.29,96,5.77,2.07,17,3
+480,alle Register ziehen,to draw all registers,to do everything possible; to use all possible means to achieve something,A,0.48,1.15,3.48,1.90,4.80,1.56,3.91,1.99,4.26,1.75,3.06,2.39,90,6.52,1.09,18,3
+481,am Rockzipfel hängen,to hang at the skirt-end,to be very attached to one's mother,A,-0.90,0.66,2.84,1.66,4.33,2.02,3.81,1.83,4.41,1.72,3.74,2.21,88,6.83,0.47,18,3
+482,auf großem Fuß leben,to live on the big foot,to spend a lot of money; to spend money generously,A,-0.11,1.52,3.77,1.87,4.60,1.77,3.43,2.36,5.34,1.52,2.93,1.87,69,5.96,1.48,17,4
+483,den Vogel abschießen,to shoot the bird,1. to be successful; to achieve something; to create excitement 2. to do something embarrassing; to make a mistake,A,-0.16,1.32,3.87,1.89,5.00,1.75,2.52,2.05,5.47,1.46,3.40,2.43,89,4.37,2.04,18,3
+484,die Hosen voll haben,to have the trousers full,to be afraid; to be scared,A,-1.61,0.84,4.71,1.83,5.48,1.53,4.13,2.00,4.68,1.72,3.83,2.25,88,6.50,1.07,17,4
+485,ein Waschlappen sein,to be a washing cloth,to be a coward; to be fainthearted; to be unmanly,U,-1.75,1.19,3.68,1.87,4.53,2.05,3.06,2.06,5.34,1.77,2.70,1.82,97,6.68,0.55,18,3
+486,eine graue Maus sein,to be a grey mouse,to be unnoticable; to be boring; not to stand out (mainly used for women and girls),U,-1.20,1.00,2.87,1.71,4.93,1.91,4.35,1.92,4.65,1.91,3.00,2.03,97,5.15,2.27,17,4
+487,eine lahme Ente sein,to be lame like a duck,to be slow either physically or in terms of understanding an issue,U,-1.45,0.72,3.03,1.64,4.97,1.88,5.27,1.91,4.56,1.74,3.19,2.12,100,6.33,1.15,17,4
+488,einen Dickkopf haben,to have a thick head,to be stubborn,A,-1.06,1.21,3.48,1.90,5.45,1.78,4.06,2.17,4.38,1.84,3.23,2.26,93,6.63,0.61,18,3
+489,gegen die Wand reden,to talk against the wall,"to talk to someone, knowing that they do not care; to be unable to get someone to understand you",A,-1.55,0.68,4.10,1.58,4.77,1.87,4.94,1.81,4.66,1.56,4.39,2.25,96,5.97,1.76,17,4
+490,nicht richtig ticken,not ticking properly,to be crazy,U,-1.55,1.15,3.90,1.92,5.80,1.45,3.78,2.22,4.94,1.55,2.73,2.02,100,6.32,1.42,18,3
+491,Seemannsgarn spinnen,to yarn seaman's tread,to tell unbelievable stories; to make-up stories that no one believes,A,-0.79,0.82,2.97,1.78,3.37,1.96,2.70,2.14,5.14,1.92,2.38,1.61,96,6.32,1.38,19,2
+492,zu hoch für jemanden sein,something is too high for someone,something is too complicated for someone to understand,A,-1.00,0.53,3.77,1.74,4.75,1.82,3.87,1.86,4.59,1.66,2.73,1.91,79,5.23,2.10,21,5
+493,an der Strippe hängen,to hang on the strap,to constantly use the telephone/mobile phone,A,-0.39,1.20,2.60,1.45,4.13,1.93,2.47,1.98,4.34,1.73,4.06,1.93,96,6.19,1.30,18,4
+494,auf dem Ohr taub sein,to be deaf on the ear,not to listen to a certain person/topic,A,-1.13,0.81,2.94,1.67,4.39,1.93,4.68,2.12,4.22,1.74,5.00,2.35,63,6.10,1.70,17,5
+495,auf der Straße sitzen,to sit on the street,to be homeless,A,-2.03,1.05,4.03,2.07,5.57,1.20,4.13,2.23,2.72,1.49,5.06,2.14,100,5.67,1.80,18,4
+496,das Gesicht verziehen,to distort the face,to show displeasure by making a grimace; to show disgust for/disapprove of something/someone,A,-0.87,0.43,3.00,1.81,5.38,1.66,5.22,1.88,3.53,1.83,5.33,2.19,89,6.07,1.76,19,3
+497,den Rotstift ansetzen,to place a red pen,to start saving; to reduce expenses,A,-1.37,1.03,3.40,1.94,4.12,1.99,4.16,2.15,4.47,1.87,3.97,2.36,73,5.17,2.18,19,3
+498,die Fassung verlieren,to loose the frame,to get outraged; to get extremely angry; to lose one's temper,A,-1.71,1.01,4.87,1.81,5.60,1.52,4.06,2.46,4.13,2.06,2.68,1.89,89,6.57,1.17,19,3
+499,ein Sonntagskind sein,to be Sunday's child,to be a spoilt or privileged person/child,A,1.54,1.37,3.04,1.77,4.28,1.84,3.25,2.41,4.97,1.86,2.10,1.90,88,6.55,0.69,19,3
+500,keinen Handschlag tun,not to do a single handclap,not to do anything to help/support anyone,A,-1.53,0.86,3.00,1.88,5.23,1.56,4.81,2.12,3.67,1.71,4.45,2.35,96,5.04,2.24,19,3
+501,nicht ganz dicht sein,not to be completely sealed,to be a little bit crazy,U,-1.71,0.90,3.74,1.91,6.03,1.21,3.50,1.98,5.06,1.76,2.71,2.15,86,6.22,0.94,18,4
+502,rote Zahlen schreiben,to write red numbers,to be in debt (mainly for companies),A,-2.10,0.87,3.37,1.90,5.14,1.84,4.35,2.29,4.13,1.93,4.10,2.37,89,5.78,1.95,19,3
+503,tauben Ohren predigen,to preach to deaf ears,someone's ideas/opinion is not acknowledged; someone does not listen to other people's ideas,A,-1.33,0.56,3.33,1.81,3.23,2.07,5.29,1.74,3.83,1.53,4.07,2.16,68,6.39,1.05,19,3
+504,die Ärmel hochkrempeln,to tuck up the sleeves,to work a lot; to be very capable/efficient; to be motivated to do something,A,0.97,0.87,3.52,1.52,5.17,1.71,4.53,2.18,4.16,1.98,4.19,2.34,97,6.63,0.85,20,3
+505,kleine Brötchen backen,to bake small bread rolls,to become humble after showing off (and often failing),A,-0.40,1.00,2.86,1.53,4.63,1.57,4.00,2.09,5.00,1.72,4.16,2.45,68,6.08,1.98,20,3
+506,an der Matratze horchen,to listen at the mattrass,to sleep,A,0.20,1.26,3.09,1.95,3.54,2.13,3.67,2.22,4.80,1.71,4.56,2.28,86,5.28,2.14,20,4
+507,einen Dachschaden haben,to have a roof damage,to be crazy,A,-1.74,1.06,4.10,1.89,5.07,1.71,3.03,2.12,5.48,1.71,2.68,1.96,90,6.37,1.15,21,3
+508,jemandem zur Hand gehen,to go to someone's hand,to help someone; to support someone,A,1.29,1.07,2.53,1.41,4.93,1.53,4.25,2.37,3.84,1.72,3.55,2.19,100,6.59,1.18,20,4
+509,klar wie Kloßbrühe sein,clear as dumpling broth,something appears clear/obvious,A,1.03,0.95,3.10,1.95,4.80,1.81,4.42,2.13,4.44,1.88,2.58,2.00,96,4.46,2.37,20,4
+510,auf dem Trockenen sitzen,to sit on the dry,to have no more supplies that are needed (nowadays in particular related to alcohol); to have no more means to advance,A,-1.23,1.12,3.45,2.03,5.03,1.54,3.84,2.11,4.69,1.56,3.28,2.05,84,4.96,2.01,21,4
+511,auf der Bärenhaut liegen,to lie on the bear's skin,to be lazy; to relax and to not do anything,A,-0.20,1.36,2.48,1.50,3.50,2.00,2.89,2.31,4.56,1.74,2.66,1.97,96,6.19,1.42,21,4
+512,auf die Barrikaden gehen,to go onto the barricades,to protest,A,-0.26,1.46,4.68,1.74,5.31,1.31,4.29,2.15,4.22,1.75,3.72,2.30,89,6.00,1.92,21,4
+513,Augenwischerei betreiben,to practice eye wiping,to change facts; to be a hypocrite,A,-1.42,0.72,3.10,1.84,4.04,2.17,3.39,2.27,4.40,1.79,3.57,2.31,74,5.63,1.79,23,2
+514,den richtigen Ton finden,to find the right tone,to express something in the correct manner,A,1.47,1.14,3.13,1.80,4.83,1.67,5.03,2.07,3.53,1.72,4.61,2.30,100,6.15,1.71,21,4
+515,die Dinge richtigstellen,to place things right,to resolve a confusion,A,1.26,0.86,3.39,1.98,5.77,1.61,5.10,2.01,3.97,1.82,3.30,2.29,97,5.77,1.48,22,3
+516,die Kacke ist am Dampfen,the shit is steaming,to be in big trouble; a situation is likely to cause problems,A,-1.97,0.84,5.00,1.89,5.24,1.66,3.03,2.27,5.81,1.47,4.06,2.37,89,6.24,1.15,20,5
+517,die Katze im Sack kaufen,to buy the cat in the bag,to get into a situation without knowing what to expect,A,-1.48,0.63,3.77,1.91,5.07,1.84,3.33,2.23,5.56,1.72,3.35,2.03,90,5.14,2.31,20,5
+518,die Nackenhaare sträuben,to raise hackles,to be horrified; to be scared,A,-1.58,0.72,4.45,1.63,4.93,1.71,4.97,1.80,4.41,1.52,5.50,2.06,89,6.47,1.22,22,3
+519,ein Fels in der Brandung sein,to be a rock in the breakwater,to be immovable despite problems; to be a reliable person who does not get shaken by problems,A,2.10,0.94,4.06,1.81,4.73,1.76,5.22,2.12,4.72,1.84,3.54,2.30,85,5.65,2.03,24,6
+520,etwas liegt mir schwer im Magen,something lies heavy in the stomach,something is difficult to understand; a situation is difficult to overcome,A,-1.45,1.15,3.97,1.74,5.76,1.43,5.03,1.82,4.48,1.57,4.57,2.16,97,6.12,1.18,26,6
+521,Holz vor der Hütte haben,to have wood in front of the hut; to have timber in front of the cabin,to have big breasts (for women),A,0.97,0.89,3.20,1.92,4.50,2.01,2.19,2.13,5.84,1.34,3.16,2.44,93,6.70,0.92,20,5
+522,jemandem blutet das Herz,someone's heart bleeds,to be sad; to be disheartened,A,-1.84,0.90,5.29,1.57,4.40,2.03,4.39,2.17,4.88,1.83,3.10,2.13,100,6.56,0.95,21,4
+523,jemandem die Zunge lösen,to loosen someone's tongue,to make someone feel relaxed so they are more open,A,0.08,1.23,3.54,1.40,3.18,1.93,3.90,1.99,4.77,1.63,3.39,1.93,91,6.21,1.26,21,4
+524,jemandem ein Ohr abkauen,to chew off someon's ear,to annoy someone with endless talks,A,-1.37,0.76,3.83,2.00,4.57,1.99,3.03,2.01,5.57,1.30,4.00,2.52,100,6.47,0.97,21,4
+525,jemanden übers Ohr hauen,to throw someone over the ear,to deceive someone (often related to money),A,-2.00,0.82,4.94,1.41,5.55,1.45,3.13,2.14,5.34,1.31,3.48,2.35,96,5.71,1.54,21,4
+526,sich in Schale schmeißen,to throw oneself into the bowl,to dress up; to put on nice clothes,A,1.19,1.01,3.29,1.90,4.93,1.84,3.10,2.21,5.29,1.49,3.28,1.87,100,6.17,1.05,21,4
+527,übers Ohr gehauen werden,to get thrown over the ear,to get tricked (related to money),A,-2.19,0.75,4.45,1.63,5.40,1.71,3.03,2.15,5.69,1.53,3.83,2.34,97,6.80,0.61,21,4
+528,wieder auf dem Damm sein,to be on the dam again,to be healthy again (after a sometimes long illness),A,1.42,0.85,2.97,1.43,4.83,1.81,3.13,2.11,5.35,1.70,3.18,1.59,93,6.46,0.98,20,5
+529,an jemandes Lippen hängen,to stick/hang on someone's lips,to listen closely to what someone else says,U,0.29,1.13,3.77,1.80,4.86,1.68,3.90,2.18,5.10,1.49,4.41,1.97,83,6.55,0.74,22,4
+530,der Groschen ist gefallen,the cent has fallen,to finally understand a joke/situation/statement,A,1.22,1.04,3.68,1.90,4.93,1.84,2.50,2.09,5.38,1.39,2.87,1.94,94,5.44,2.06,22,4
+531,ein Brett vorm Kopf haben,to have a blank in front of the head,to be unable to see the obvious; to have difficulties to understand,A,-1.55,0.72,3.52,1.90,5.41,1.57,3.81,2.24,5.37,2.01,3.58,2.36,90,5.50,1.87,21,5
+532,einen schweren Kopf haben,to have a heavy head,to have a headache; to be hung-over,A,-1.24,0.64,3.07,1.62,4.30,1.94,4.45,1.97,4.03,1.78,4.32,2.31,40,6.20,1.08,22,4
+533,jemandem das Maul stopfen,to stuff/darn someone's muzzle,to brutally stop someone from speaking; to muzzle someone; a threat to be beaten,A,-2.00,0.73,5.03,1.64,4.69,1.73,4.77,1.89,4.58,1.31,4.19,2.12,79,6.21,1.52,22,4
+534,jemandem den Mund stopfen,to stuff/darn someone's mouth,to brutally stop someone from speaking; to muzzle someone,A,-1.84,0.90,4.50,1.81,4.45,2.03,5.19,1.87,4.72,1.57,4.70,2.17,80,6.55,1.21,22,4
+535,jemanden übers Knie legen,to place someone over the knee,to beat someone (this idiom is mostly used when an authority figure threatens to beat children),A,-1.56,1.13,4.26,1.95,3.90,1.94,4.35,2.30,3.38,1.81,4.60,2.28,45,5.23,2.03,22,4
+536,keinen Pfennig mehr haben,to have no more cent,to have run out of money; having spent all money,A,-1.97,0.93,3.65,2.21,4.10,2.19,5.94,2.03,2.39,1.48,3.60,2.65,100,6.28,1.46,22,4
+537,mit den Hühnern aufstehen,to get up with the chickens,to get up very early,A,0.17,1.34,2.72,1.87,4.00,2.04,5.16,1.92,3.75,2.00,4.57,2.22,100,6.41,0.91,22,4
+538,sich auf die Lippe beißen,to bit oneself onto the lip,to refrain from saying something; not to say one's opinion,A,-1.06,1.03,3.55,1.55,4.03,2.28,4.66,2.22,3.29,1.90,5.81,1.76,87,6.70,0.60,21,5
+539,über Tod und Teufel reden,to speak about death and the devil,to talk about every imaginable topic /every possible topic,A,-0.89,0.89,3.44,1.72,2.68,1.77,3.87,2.14,4.50,2.16,3.18,2.06,44,6.17,1.49,21,5
+540,alte Rechnungen begleichen,to acquit old bills,to take revenge often after some time; to retaliate,A,0.03,1.49,3.97,1.89,4.69,2.00,4.90,1.99,3.94,1.74,3.03,2.31,93,5.76,1.90,24,3
+542,auf dem Absatz kehrtmachen,to turn on the heel,to turn around and leave an unpleasant situation,A,-0.61,0.80,3.27,1.72,4.23,1.89,5.16,2.22,3.63,1.66,4.39,2.50,83,6.63,0.74,23,4
+543,auf einer Wellenlänge sein,to be on the same wavelength,to have interests/ideas in common with someone,A,1.80,0.85,3.87,1.88,5.69,1.39,4.68,2.04,5.06,1.66,2.24,1.68,100,6.70,0.65,23,4
+544,das Kind beim Namen nennen,to call the child by his/her name,to say what one means; to talk exactly about the relevant issue,A,0.63,1.01,3.48,1.81,4.73,1.78,3.81,2.23,4.41,1.81,3.29,2.08,100,5.57,1.87,22,5
+545,den Gürtel enger schnallen,to tighten the belt,to be more careful with money; to watch more closely what to spend money on; to be more cautious with expenses,A,-1.06,0.93,3.70,1.78,4.97,1.80,4.48,2.14,4.19,2.04,4.10,2.35,100,5.57,2.18,23,4
+546,den Mund nicht aufbekommen,to be unable to open the mouth,to be unable to speak; to be shy,A,-1.13,0.56,3.65,1.89,5.17,1.79,5.57,1.99,3.50,2.09,5.06,2.28,100,5.76,1.81,23,4
+547,den Schalk im Nacken haben,to have the rogue in the neck,someone is in a good mood; to have fun,A,-0.07,1.41,3.83,1.72,3.83,1.87,2.94,2.12,4.97,1.75,2.63,2.16,88,6.34,1.29,22,5
+548,Dieser Zug ist abgefahren!,This train has left!,it is too late to do something/to make amendments; a chance/opportunity has been missed,A,-1.68,0.91,3.61,1.87,5.10,1.63,4.53,2.15,4.06,1.48,3.14,2.40,100,3.87,2.60,23,4
+549,einen falschen Ton treffen,to catch the wrong tone,to say something inappropriate,A,-1.23,0.56,3.23,1.61,4.38,2.06,4.81,2.06,4.06,1.63,4.50,2.13,80,6.76,0.51,23,4
+550,etwas auf dem Kasten haben,to have something on the cupboard,to know something; to be street-smart; to be well versed in something; to be competent in something; to have potential,A,2.03,0.66,3.23,1.82,5.14,1.53,2.56,2.26,5.88,1.48,2.19,1.72,100,6.33,1.12,22,5
+551,Jetzt haben wir den Salat!,Now we have the salad!,to have new troubles/chaos; to be in a difficult situation,A,-1.44,0.80,3.42,1.96,4.90,1.79,2.19,1.94,5.38,1.83,2.52,2.01,85,6.62,0.80,22,5
+552,keinen Finger krumm machen,not to bend a finger,to be lazy; not to do any work,A,-1.58,0.92,3.00,1.66,5.20,1.85,4.22,2.06,4.22,2.00,4.68,2.17,100,6.50,1.30,23,4
+553,nah am Wasser gebaut sein,to be built close to the water,to start crying in even the smallest occasions; to be sentimental,A,-0.87,0.81,3.97,1.86,5.07,1.46,3.06,2.31,5.88,1.21,3.27,2.00,97,6.44,1.01,21,5
+554,sich auf die Socken machen,to make oneself onto the socks,to get going; to leave a place,A,0.65,0.75,2.97,1.97,5.52,1.77,3.68,2.23,4.59,1.83,3.35,2.01,97,6.28,1.36,22,5
+555,wie ein Schlosshund heulen,to cry like a lap dog,to cry a lot,A,-1.77,0.88,4.73,1.48,3.72,1.98,5.00,1.73,4.58,1.86,4.46,2.15,88,5.74,1.81,23,4
+556,dem Wein tüchtig zusprechen,to heartily award the wine ,to drink a lot of wine,A,-0.83,1.01,3.33,2.04,2.88,1.75,3.86,2.30,3.66,1.74,3.93,2.23,96,5.35,2.21,24,4
+557,jeden Cent zweimal umdrehen,to turn every cent twice,to be careful with money; to watch closely how much money one spends,A,-1.22,1.21,3.61,1.99,4.60,1.89,4.56,2.27,3.78,1.68,4.21,2.40,100,5.66,1.88,24,4
+558,jemandem auf den Leim gehen,to go on someone's glue,to get tricked/deceived,A,-1.73,0.83,3.71,1.77,4.69,1.89,3.30,2.09,5.44,1.41,3.26,1.95,86,6.62,0.86,23,5
+559,jemandem die Flügel stutzen,to cut someone's wings,to tell someone what you think about them/their actions; to bring someone back to reality,U,-1.68,1.05,4.13,1.52,3.59,2.24,4.19,1.69,5.50,1.52,3.53,2.39,96,5.89,1.28,24,4
+560,jemanden auf den Arm nehmen,to take someone onto the arm,to make fun of someone; to mock someone,A,-0.68,0.98,3.80,1.81,5.86,1.41,2.56,2.11,5.55,1.55,4.06,2.31,100,6.79,0.41,23,5
+561,noch in den Windeln stecken,to still be in diapers/nappies,to be naive/immature/unexperienced (for projects but also in relation to people),A,-0.94,0.73,2.84,1.63,3.61,2.20,4.84,2.07,4.00,2.02,4.10,2.40,92,6.64,0.62,23,5
+562,sein letztes Hemd verlieren,to lose one's last shirt,to lose everything,A,-2.10,0.79,4.10,2.13,4.44,1.91,5.25,2.00,4.35,1.68,3.20,2.25,96,6.22,1.40,24,4
+563,alle Hände voll zu tun haben,to have all hands full to do,"to be very busy, to have a lot of things to do",A,0.06,1.31,3.06,1.79,5.63,1.67,6.09,1.40,3.97,1.71,4.35,2.33,100,6.07,1.46,23,6
+564,alles über den Haufen werfen,to throw everything over the pile,to give up or change every plan; to amend the planned situation,A,-1.32,0.98,4.29,1.74,5.10,1.63,2.93,2.13,4.59,1.64,3.03,1.91,88,5.52,1.91,24,5
+565,alles unter ein Dach bringen,to bring everything under one roof,"to organize everything; to manage, to organize all tasks, to manage several tasks at the same time",A,1.32,0.79,3.03,1.74,4.90,1.82,4.32,2.14,4.77,1.55,3.13,2.24,79,5.89,1.76,24,5
+566,an den Klapperstorch glauben,to believe in the storch,to be inexperienced; to believe in a lot of things that are not true; to be naive,A,-1.07,0.87,2.70,1.51,3.64,2.16,3.03,2.24,4.42,2.08,2.47,1.98,96,6.43,0.84,25,4
+567,Das ist doch kein Beinbruch,That is no fracture of the leg!,what happened is not the end of the world - life continues even if it does not look like it at the moment; it is not that bad,A,1.03,0.84,3.57,1.70,4.90,1.95,4.33,2.25,4.63,1.81,3.42,2.43,93,6.04,1.45,23,5
+568,das Licht der Welt erblicken,to glimpse the light of the world,to be born,A,1.88,1.41,3.90,2.14,5.30,1.64,4.77,2.11,3.72,1.69,5.58,1.95,100,6.52,0.78,24,5
+569,den Kopf nicht hängen lassen,not to let the head hang,not to dispair/ lose hope/ give up,A,1.13,0.99,3.29,1.64,6.21,1.21,5.19,2.13,3.66,1.70,4.13,2.53,96,5.78,1.69,24,5
+570,die Beine in die Hand nehmen,to take the legs into the hand,to run fast; to run away,A,0.13,1.04,3.74,1.86,5.07,1.58,3.13,2.12,5.06,1.75,3.97,2.12,100,6.32,1.42,23,6
+571,die Hände in den Schoß legen,to put the hands in the lap,to do nothing about a situation,A,-0.90,0.87,2.48,1.39,5.00,1.83,4.35,1.92,4.50,1.72,4.62,2.38,88,6.47,1.27,23,6
+572,jemanden um die Ecke bringen,to bring someone around the corner,to kill someone,A,-2.42,0.89,4.90,1.90,4.55,1.74,2.39,2.12,5.77,1.59,3.39,2.38,97,6.19,1.08,24,5
+573,mit dem linken Fuß aufstehen,to get up with the left foot,everything that happened since getting up has gone wrong; to have an unlucky day,A,-1.22,0.79,3.27,1.74,4.83,1.83,2.87,2.20,4.75,1.81,4.19,2.37,90,6.11,1.59,24,5
+574,über Gott und die Welt reden,to talk about God and the world,to talk about every imaginable topic /every possible topic,A,0.55,0.77,2.71,1.47,5.66,1.54,4.97,1.99,4.10,1.64,3.71,2.29,96,6.24,0.95,23,6
+575,auf dem falschen Dampfer sein,to be on the wrong steamboat,to be wrong; to believe something that is wrong,A,-1.16,0.52,3.13,1.61,4.53,1.87,4.84,1.95,4.61,1.94,2.64,1.97,83,6.58,0.95,25,5
+576,jemanden auf dem falschen Fuß erwischt haben,to catch someone on the wrong foot,to surprise someone unexpectedly either at the wrong time or when the person is in a bad mood or both,A,-1.23,0.72,3.42,1.71,4.80,1.63,3.16,2.22,5.06,1.48,2.97,1.99,79,6.38,1.02,38,7
+577,die Katze aus dem Sack lassen,to let the cat out of the bag,to finally tell/reveal the truth,A,0.13,1.23,3.97,1.70,5.17,1.67,2.71,1.95,5.03,1.92,4.03,2.36,87,6.45,1.06,24,6
+578,eine andere Tonart anschlagen,to strike a different tonality,to change one's way of speaking with someone; to be more assertive and strict,A,-0.61,0.99,3.71,1.55,4.07,1.93,4.58,1.93,4.31,1.42,4.77,2.25,77,5.93,1.25,26,4
+579,jemanden nicht riechen können,to be unable to smell someone,to dislike someone; to feel animosity against someone,A,-1.52,1.21,3.97,1.87,5.30,1.70,4.41,2.08,4.06,1.95,4.55,2.20,97,6.48,0.93,26,4
+580,mit einem Fuß im Grabe stehen,to stand in the grave with one foot,to be in a situation where one could have easily died,A,-2.29,0.82,4.71,1.79,3.53,1.72,5.45,1.71,4.50,1.88,3.87,2.26,81,6.00,1.62,24,6
+581,mit verdeckten Karten spielen,to play with covered cards,to be deceptive; to be dishonest,A,-0.88,1.07,3.45,1.84,4.37,2.17,5.13,2.00,3.63,1.56,3.13,2.33,94,5.79,1.91,26,4
+582,den Nagel auf den Kopf treffen,to strike the nail on the head,to talk about the precise issue/topic,A,1.44,1.08,3.90,1.77,5.50,1.66,4.59,2.12,4.69,1.82,3.90,2.55,88,6.46,0.92,25,6
+583,jemanden in die Wüste schicken,to send someone into the desert,to get rid of someone (mostly in a relationship),A,-1.59,1.13,4.23,1.63,4.41,1.96,4.50,2.06,5.09,1.59,3.58,2.33,86,6.34,1.33,26,5
+584,für jemanden durchs Feuer gehen,to go through fire for someone,to be ready to do anything for someone else;,A,1.80,1.19,5.35,1.36,5.52,1.40,5.13,2.14,5.09,1.82,3.77,2.32,90,5.68,1.42,27,5
+585,sich in die eigene Tasche lügen,to lie into one's own pocket,to lie to oneself; to be unable to see the truth; to deceive oneself,A,-1.73,0.64,3.72,1.81,3.58,2.00,3.59,2.15,4.83,1.56,2.28,1.65,89,6.31,1.26,26,6
+586,völlig aus dem Häuschen sein,to be completely out of the little house,to be very excited; to be very happy about something,A,1.06,1.59,4.97,1.74,4.86,1.98,2.94,2.14,5.00,1.91,2.53,1.78,93,6.16,1.75,24,5
+587,einen empfindlichen Nerv treffen,to catch a sensitive nerve,to talk about a sensitive issue; ,A,-1.00,1.15,4.77,1.48,5.10,1.76,5.59,1.85,3.58,1.52,4.58,2.14,91,5.14,2.10,29,4
+588,etwas an die große Glocke hängen,to hang something onto the big bell,to tell information to everyone; to gossip,A,-0.81,0.78,3.90,1.79,5.13,1.81,3.43,2.16,5.47,1.37,3.61,2.08,96,5.79,1.84,27,6
+589,alte Kamellen wieder hervorkramen,to rummage out old camomiles,"to dig out old jokes, stories that are already known",A,-1.24,0.79,3.26,1.79,4.03,2.03,3.69,2.04,5.26,1.57,3.07,1.98,93,6.42,1.20,30,4
+590,etwas auf die lange Bank schieben,to push something onto the long bench,to delay an unpleasant task; to postpone something,A,-1.28,0.46,2.97,1.58,4.63,1.90,3.23,2.42,5.13,1.68,2.86,1.87,96,6.27,1.00,28,6
+591,sich vor Angst in die Hose machen,to make into your trousers out of fear,to be extremely scared,A,-2.00,0.93,5.16,1.90,4.97,1.88,6.13,1.50,3.84,1.80,5.10,2.22,97,5.47,1.81,27,7
+592,aufs Abstellgleis geschoben werden,to get pushed onto the holding tracks,to get neglected; become redundant,A,-2.10,0.70,4.31,2.11,4.03,2.16,5.22,1.88,4.63,1.86,3.52,2.20,88,6.56,1.05,31,4
+593,beim ersten Hahnenschrei aufstehen,to get up at the first cock crow,to get up very early; to get up as early as chickens,A,0.16,1.16,2.61,1.73,3.31,2.04,5.78,1.88,3.16,1.72,4.94,2.14,96,6.29,1.30,31,4
+594,die ganze Nacht kein Auge zumachen,not to close one's eye for the whole night,to be unable to sleep for most parts of the night mainly because one is worried about something or someone,A,-1.48,0.93,4.32,1.68,5.38,1.74,6.10,1.80,3.25,1.74,4.59,2.51,96,6.37,1.33,29,6
+595,einen Sprung in der Schüssel haben,to have a crack in the bowl,to be crazy,A,-1.66,0.83,3.84,1.75,4.90,1.69,2.84,2.07,5.28,1.61,3.10,2.18,93,6.27,1.34,29,6
+596,jemandem die kalte Schulter zeigen,to show someone the cold shoulder,to ignore someone,A,-1.69,0.78,4.52,1.79,4.93,1.74,3.50,1.98,4.53,1.68,3.68,2.04,100,6.47,0.97,30,5
+597,jemandem Sand in die Augen streuen,to spread sand into someone's eyes,to deceive someone; to cover something up,A,-1.81,0.87,4.04,1.68,3.89,1.99,4.10,2.12,5.44,1.58,4.61,2.49,89,5.76,1.38,29,6
+598,nicht alle Tassen im Schrank haben,not to have all cups in the cupboard,to be crazy,A,-1.63,0.85,4.58,1.77,5.59,1.40,2.91,2.45,5.84,1.53,2.42,2.09,97,6.52,1.15,29,6
+599,etwas wie seine Westentasche kennen,to know something as one's own westcoat pocket,to know something (mostly a place) very well,A,1.61,1.15,2.77,1.65,4.90,1.69,5.00,1.79,4.41,1.83,3.35,2.33,97,6.18,1.50,31,5
+600,jemanden aufs Abstellgleis schieben,to push someone onto the holding track,to neglect someone; to stop caring for someone,A,-1.81,0.75,3.86,1.66,4.07,2.18,4.75,1.95,5.09,1.67,3.16,1.97,70,6.62,1.27,32,4
+601,als Kind zu heiß gebadet worden sein,to get bathed too hot as a child,to be a little bit crazy,A,-1.69,0.71,3.75,2.03,3.80,1.68,2.90,2.04,5.33,1.69,4.07,2.32,58,6.40,1.00,30,7
+602,etwas geht jemandem gegen den Strich,something goes against someone's line,to be unhappy/dissatisfied with something; to disagree with an action/someone,A,-1.35,0.71,4.06,1.59,5.17,1.89,3.32,2.21,5.32,1.51,2.52,1.81,100,5.88,2.05,31,6
+603,bei jemandem ist eine Schraube locker,someone's screw is loose,to be/act crazy,A,-1.48,0.89,3.77,1.94,5.66,1.32,3.06,1.90,5.44,1.52,2.68,2.06,100,6.66,1.01,32,6
+604,jemandem etwas ins Gesicht schleudern,to dart something into someone's face,to attack someone verbally; to bluntly say the truth,A,-2.06,0.76,4.45,1.65,3.52,1.99,4.61,1.94,4.00,1.83,4.84,1.85,92,6.69,0.69,33,5
+605,sich auf seine vier Buchstaben setzen,to sit oneself onto one's four letters,to sit down on (four letters mean the ass),U,-0.29,0.78,3.03,1.96,4.83,2.02,3.28,2.57,5.23,1.87,3.30,2.28,97,6.00,1.57,32,6
+606,sich ein paar hinter die Binde kippen,to tilt a couple behind the bandage,to drink an alcoholic beverage; to get drunk,A,-1.00,0.83,3.16,1.73,4.53,1.87,2.90,2.23,5.42,1.59,3.45,2.26,100,6.10,1.23,31,7
+607,bei jemandem einen Stein im Brett haben,to have a stone in someone's plank,to be likeable; to be liked by someone,A,1.27,1.20,4.10,1.80,5.00,1.81,2.63,2.17,5.56,1.46,2.23,1.69,96,6.82,0.48,33,7
+608,den Teufel an die Wand malen,to paint the devil onto the walls,to see a problem where there might not be one; to expect the worst; to be pessimistic,A,-1.69,0.97,4.42,1.71,5.47,1.41,3.28,2.19,5.59,1.50,3.40,2.34,90,6.25,1.22,23,6
+609,sich die Radieschen von unten anschauen,to look at radishes from below ,to be dead,A,-2.33,0.99,4.52,2.08,4.39,1.93,3.53,2.18,5.70,1.68,4.07,2.42,100,6.71,0.71,34,6
+610,jemanden über die Klinge springen lassen,to let someone jump over the blade,to get someone into troubles; ,A,-2.13,1.07,4.83,1.75,4.00,1.81,3.03,2.09,5.35,1.72,3.10,2.20,75,6.13,1.22,35,6
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
